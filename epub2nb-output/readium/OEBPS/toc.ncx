@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="8e73de09-b542-49f8-84d4-002ad05e4ad2" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Svět v zrnku písku</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>BÁSNICKÉ ČRTY</text>
+      </navLabel>
+      <content src="Text/svet_v_zrnku_pisku_006.html"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>K Múzám</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_007.html"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Šťastně jsem bloudil lukami</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_008.html"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Ztratil jsem při lásce</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_009.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Láska</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_010.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Miluji něžný zpěv</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_011.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Vzpomínko, ke mně pojď</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_012.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Bláznivý zpěv</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_013.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>ZPĚVY NEVINNOSTI</text>
+      </navLabel>
+      <content src="Text/svet_v_zrnku_pisku_014.html"/>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Zpěv o zpěvu</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_015.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Beránek</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_016.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Zpěv smíchu</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_017.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Jaro</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_018.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>ZPĚVY ZKUŠENOSTI</text>
+      </navLabel>
+      <content src="Text/svet_v_zrnku_pisku_019.html"/>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Hrouda a oblázek</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_020.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Svátek Nanebevstoupení</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_021.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Kominíček</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_022.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Nemocná růže</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_023.html"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Moucha</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_024.html"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Anděl</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_025.html"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Tygr</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_026.html"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Slunečnice</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_027.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Zahrada lásky</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_028.html"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Malý pobuda</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_029.html"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Londýn</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_030.html"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Lidský pomysl</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_031.html"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Žal v plenkách</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_032.html"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Jedovatý strom</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_033.html"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Ztracený chlapec</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_034.html"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Školák</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_035.html"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Hlas dávného pěvce</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_036.html"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Obraz boží</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_037.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>MIMO SBÍRKY</text>
+      </navLabel>
+      <content src="Text/svet_v_zrnku_pisku_038.html"/>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Nechtěj lásce vyslovit</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_039.html"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Usnula láska na stráni</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_040.html"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Viděl jsem kapli ze zlata</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_041.html"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Andělův zpěv zněl</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_042.html"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Ukolébavka</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_043.html"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Ve stínu myrty</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_044.html"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Noci</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_045.html"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Otče ne náš</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_046.html"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Láska k chybám slepá je</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_047.html"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Hebký sníh</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_048.html"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Meč a srp</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_049.html"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Věčnost</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_050.html"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Otevřte pařížské bordely</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_051.html"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Duchovní poutník</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_052.html"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Křišťálová komnata</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_053.html"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Proroctví nevinnosti</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_054.html"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Šedivý mnich</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_055.html"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Dlouhý John Brown a malá Mary Bellová</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_056.html"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>William Bond</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_057.html"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Úsměv</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_058.html"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Zlatá síť</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_059.html"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Mary</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_060.html"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Žalobníkovi, jenž je bohem tohoto světa</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_061.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>KNIHA THEL</text>
+      </navLabel>
+      <content src="Text/svet_v_zrnku_pisku_062.html"/>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_063.html"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_063.html#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_063.html#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_063.html#sigil_toc_id_3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>FRANCOUZSKÁ REVOLUCE</text>
+      </navLabel>
+      <content src="Text/svet_v_zrnku_pisku_064.html"/>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Francouzská revoluce</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_065.html"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Bastila</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_066.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>VIDĚNÍ DCER ALBIONU</text>
+      </navLabel>
+      <content src="Text/svet_v_zrnku_pisku_067.html"/>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Otázky</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_068.html"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>Nesrovnalosti</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_069.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-68" playOrder="68">
+      <navLabel>
+        <text>AMERIKA</text>
+      </navLabel>
+      <content src="Text/svet_v_zrnku_pisku_070.html"/>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Proroctví Ameriky</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_071.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>EVROPA</text>
+      </navLabel>
+      <content src="Text/svet_v_zrnku_pisku_072.html"/>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>Žalář Evropy</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_073.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>ZPĚV LOSŮV</text>
+      </navLabel>
+      <content src="Text/svet_v_zrnku_pisku_074.html"/>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>Svůdcové lidstva</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_075.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-74" playOrder="74">
+      <navLabel>
+        <text>VALA ANEB ČTYŘI ZOY</text>
+      </navLabel>
+      <content src="Text/svet_v_zrnku_pisku_076.html"/>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>Zkušenost</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_077.html"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>Vykořisťování</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_078.html"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>Urizenovi synové</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_079.html"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>Pukající svět</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_080.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-79" playOrder="79">
+      <navLabel>
+        <text>MILTON</text>
+      </navLabel>
+      <content src="Text/svet_v_zrnku_pisku_081.html"/>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>Jeruzalém</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_082.html"/>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>Milton</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_083.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-82" playOrder="82">
+      <navLabel>
+        <text>JERUZALÉM</text>
+      </navLabel>
+      <content src="Text/svet_v_zrnku_pisku_084.html"/>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>Pravda v maličkostech</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_085.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-84" playOrder="84">
+      <navLabel>
+        <text>SŇATEK NEBE S PEKLEM</text>
+      </navLabel>
+      <content src="Text/svet_v_zrnku_pisku_086.html"/>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>Pekelná přísloví</text>
+        </navLabel>
+        <content src="Text/svet_v_zrnku_pisku_087.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,784 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Svět v zrnku písku",
+    "identifier": "8e73de09-b542-49f8-84d4-002ad05e4ad2",
+    "author": "William Blake",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2018-04-24T00:00:00.000Z",
+    "published": "2018-04-20T00:00:00.000Z",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_025.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_026.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_027.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_028.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_029.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_030.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_031.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_032.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_033.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_034.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_035.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_036.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_037.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_038.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_039.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_040.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_041.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_042.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_043.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_044.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_045.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_046.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_047.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_048.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_049.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_050.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_051.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_052.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_053.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_054.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_055.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_056.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_057.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_058.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_059.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_060.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_061.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_062.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_063.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_064.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_065.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_066.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_067.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_068.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_069.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_070.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_071.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_072.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_073.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_074.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_075.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_076.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_077.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_078.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_079.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_080.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_081.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_082.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_083.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_084.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_085.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_086.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_087.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_088.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "BÁSNICKÉ ČRTY",
+      "children": [
+        {
+          "title": "K Múzám",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_007.html"
+        },
+        {
+          "title": "Šťastně jsem bloudil lukami",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_008.html"
+        },
+        {
+          "title": "Ztratil jsem při lásce",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_009.html"
+        },
+        {
+          "title": "Láska",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_010.html"
+        },
+        {
+          "title": "Miluji něžný zpěv",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_011.html"
+        },
+        {
+          "title": "Vzpomínko, ke mně pojď",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_012.html"
+        },
+        {
+          "title": "Bláznivý zpěv",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_013.html"
+        }
+      ],
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_006.html"
+    },
+    {
+      "title": "ZPĚVY NEVINNOSTI",
+      "children": [
+        {
+          "title": "Zpěv o zpěvu",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_015.html"
+        },
+        {
+          "title": "Beránek",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_016.html"
+        },
+        {
+          "title": "Zpěv smíchu",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_017.html"
+        },
+        {
+          "title": "Jaro",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_018.html"
+        }
+      ],
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_014.html"
+    },
+    {
+      "title": "ZPĚVY ZKUŠENOSTI",
+      "children": [
+        {
+          "title": "Hrouda a oblázek",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_020.html"
+        },
+        {
+          "title": "Svátek Nanebevstoupení",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_021.html"
+        },
+        {
+          "title": "Kominíček",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_022.html"
+        },
+        {
+          "title": "Nemocná růže",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_023.html"
+        },
+        {
+          "title": "Moucha",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_024.html"
+        },
+        {
+          "title": "Anděl",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_025.html"
+        },
+        {
+          "title": "Tygr",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_026.html"
+        },
+        {
+          "title": "Slunečnice",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_027.html"
+        },
+        {
+          "title": "Zahrada lásky",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_028.html"
+        },
+        {
+          "title": "Malý pobuda",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_029.html"
+        },
+        {
+          "title": "Londýn",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_030.html"
+        },
+        {
+          "title": "Lidský pomysl",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_031.html"
+        },
+        {
+          "title": "Žal v plenkách",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_032.html"
+        },
+        {
+          "title": "Jedovatý strom",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_033.html"
+        },
+        {
+          "title": "Ztracený chlapec",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_034.html"
+        },
+        {
+          "title": "Školák",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_035.html"
+        },
+        {
+          "title": "Hlas dávného pěvce",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_036.html"
+        },
+        {
+          "title": "Obraz boží",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_037.html"
+        }
+      ],
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_019.html"
+    },
+    {
+      "title": "MIMO SBÍRKY",
+      "children": [
+        {
+          "title": "Nechtěj lásce vyslovit",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_039.html"
+        },
+        {
+          "title": "Usnula láska na stráni",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_040.html"
+        },
+        {
+          "title": "Viděl jsem kapli ze zlata",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_041.html"
+        },
+        {
+          "title": "Andělův zpěv zněl",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_042.html"
+        },
+        {
+          "title": "Ukolébavka",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_043.html"
+        },
+        {
+          "title": "Ve stínu myrty",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_044.html"
+        },
+        {
+          "title": "Noci",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_045.html"
+        },
+        {
+          "title": "Otče ne náš",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_046.html"
+        },
+        {
+          "title": "Láska k chybám slepá je",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_047.html"
+        },
+        {
+          "title": "Hebký sníh",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_048.html"
+        },
+        {
+          "title": "Meč a srp",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_049.html"
+        },
+        {
+          "title": "Věčnost",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_050.html"
+        },
+        {
+          "title": "Otevřte pařížské bordely",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_051.html"
+        },
+        {
+          "title": "Duchovní poutník",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_052.html"
+        },
+        {
+          "title": "Křišťálová komnata",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_053.html"
+        },
+        {
+          "title": "Proroctví nevinnosti",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_054.html"
+        },
+        {
+          "title": "Šedivý mnich",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_055.html"
+        },
+        {
+          "title": "Dlouhý John Brown a malá Mary Bellová",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_056.html"
+        },
+        {
+          "title": "William Bond",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_057.html"
+        },
+        {
+          "title": "Úsměv",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_058.html"
+        },
+        {
+          "title": "Zlatá síť",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_059.html"
+        },
+        {
+          "title": "Mary",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_060.html"
+        },
+        {
+          "title": "Žalobníkovi, jenž je bohem tohoto světa",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_061.html"
+        }
+      ],
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_038.html"
+    },
+    {
+      "title": "KNIHA THEL",
+      "children": [
+        {
+          "title": "I",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_063.html"
+        },
+        {
+          "title": "II",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_063.html#sigil_toc_id_1"
+        },
+        {
+          "title": "III",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_063.html#sigil_toc_id_2"
+        },
+        {
+          "title": "IV",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_063.html#sigil_toc_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_062.html"
+    },
+    {
+      "title": "FRANCOUZSKÁ REVOLUCE",
+      "children": [
+        {
+          "title": "Francouzská revoluce",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_065.html"
+        },
+        {
+          "title": "Bastila",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_066.html"
+        }
+      ],
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_064.html"
+    },
+    {
+      "title": "VIDĚNÍ DCER ALBIONU",
+      "children": [
+        {
+          "title": "Otázky",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_068.html"
+        },
+        {
+          "title": "Nesrovnalosti",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_069.html"
+        }
+      ],
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_067.html"
+    },
+    {
+      "title": "AMERIKA",
+      "children": [
+        {
+          "title": "Proroctví Ameriky",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_071.html"
+        }
+      ],
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_070.html"
+    },
+    {
+      "title": "EVROPA",
+      "children": [
+        {
+          "title": "Žalář Evropy",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_073.html"
+        }
+      ],
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_072.html"
+    },
+    {
+      "title": "ZPĚV LOSŮV",
+      "children": [
+        {
+          "title": "Svůdcové lidstva",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_075.html"
+        }
+      ],
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_074.html"
+    },
+    {
+      "title": "VALA ANEB ČTYŘI ZOY",
+      "children": [
+        {
+          "title": "Zkušenost",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_077.html"
+        },
+        {
+          "title": "Vykořisťování",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_078.html"
+        },
+        {
+          "title": "Urizenovi synové",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_079.html"
+        },
+        {
+          "title": "Pukající svět",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_080.html"
+        }
+      ],
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_076.html"
+    },
+    {
+      "title": "MILTON",
+      "children": [
+        {
+          "title": "Jeruzalém",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_082.html"
+        },
+        {
+          "title": "Milton",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_083.html"
+        }
+      ],
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_081.html"
+    },
+    {
+      "title": "JERUZALÉM",
+      "children": [
+        {
+          "title": "Pravda v maličkostech",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_085.html"
+        }
+      ],
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_084.html"
+    },
+    {
+      "title": "SŇATEK NEBE S PEKLEM",
+      "children": [
+        {
+          "title": "Pekelná přísloví",
+          "href": "OEBPS/Text/svet_v_zrnku_pisku_087.html"
+        }
+      ],
+      "href": "OEBPS/Text/svet_v_zrnku_pisku_086.html"
+    }
+  ]
+}

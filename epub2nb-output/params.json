@@ -1,0 +1,1666 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Svět v zrnku písku",
+      "identifier": "8e73de09-b542-49f8-84d4-002ad05e4ad2",
+      "author": "William Blake",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2018-04-24T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "svet_v_zrnku_pisku_001.md",
+            "xhtml": "svet_v_zrnku_pisku_001.html",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_002.md",
+            "xhtml": "svet_v_zrnku_pisku_002.html",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_003.md",
+            "xhtml": "svet_v_zrnku_pisku_003.html",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_004.md",
+            "xhtml": "svet_v_zrnku_pisku_004.html",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_005.md",
+            "xhtml": "svet_v_zrnku_pisku_005.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_006.md",
+            "xhtml": "svet_v_zrnku_pisku_006.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_007.md",
+            "xhtml": "svet_v_zrnku_pisku_007.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_008.md",
+            "xhtml": "svet_v_zrnku_pisku_008.html",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_009.md",
+            "xhtml": "svet_v_zrnku_pisku_009.html",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_010.md",
+            "xhtml": "svet_v_zrnku_pisku_010.html",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_011.md",
+            "xhtml": "svet_v_zrnku_pisku_011.html",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_012.md",
+            "xhtml": "svet_v_zrnku_pisku_012.html",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_013.md",
+            "xhtml": "svet_v_zrnku_pisku_013.html",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_014.md",
+            "xhtml": "svet_v_zrnku_pisku_014.html",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_015.md",
+            "xhtml": "svet_v_zrnku_pisku_015.html",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_016.md",
+            "xhtml": "svet_v_zrnku_pisku_016.html",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_017.md",
+            "xhtml": "svet_v_zrnku_pisku_017.html",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_018.md",
+            "xhtml": "svet_v_zrnku_pisku_018.html",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_019.md",
+            "xhtml": "svet_v_zrnku_pisku_019.html",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_020.md",
+            "xhtml": "svet_v_zrnku_pisku_020.html",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_021.md",
+            "xhtml": "svet_v_zrnku_pisku_021.html",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_022.md",
+            "xhtml": "svet_v_zrnku_pisku_022.html",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_023.md",
+            "xhtml": "svet_v_zrnku_pisku_023.html",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_024.md",
+            "xhtml": "svet_v_zrnku_pisku_024.html",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_025.md",
+            "xhtml": "svet_v_zrnku_pisku_025.html",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_026.md",
+            "xhtml": "svet_v_zrnku_pisku_026.html",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_027.md",
+            "xhtml": "svet_v_zrnku_pisku_027.html",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_028.md",
+            "xhtml": "svet_v_zrnku_pisku_028.html",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_029.md",
+            "xhtml": "svet_v_zrnku_pisku_029.html",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_030.md",
+            "xhtml": "svet_v_zrnku_pisku_030.html",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_031.md",
+            "xhtml": "svet_v_zrnku_pisku_031.html",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_032.md",
+            "xhtml": "svet_v_zrnku_pisku_032.html",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_033.md",
+            "xhtml": "svet_v_zrnku_pisku_033.html",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_034.md",
+            "xhtml": "svet_v_zrnku_pisku_034.html",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_035.md",
+            "xhtml": "svet_v_zrnku_pisku_035.html",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_036.md",
+            "xhtml": "svet_v_zrnku_pisku_036.html",
+            "id": 35,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_037.md",
+            "xhtml": "svet_v_zrnku_pisku_037.html",
+            "id": 36,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_038.md",
+            "xhtml": "svet_v_zrnku_pisku_038.html",
+            "id": 37,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_039.md",
+            "xhtml": "svet_v_zrnku_pisku_039.html",
+            "id": 38,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_040.md",
+            "xhtml": "svet_v_zrnku_pisku_040.html",
+            "id": 39,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_041.md",
+            "xhtml": "svet_v_zrnku_pisku_041.html",
+            "id": 40,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_042.md",
+            "xhtml": "svet_v_zrnku_pisku_042.html",
+            "id": 41,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_043.md",
+            "xhtml": "svet_v_zrnku_pisku_043.html",
+            "id": 42,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_044.md",
+            "xhtml": "svet_v_zrnku_pisku_044.html",
+            "id": 43,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_045.md",
+            "xhtml": "svet_v_zrnku_pisku_045.html",
+            "id": 44,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_046.md",
+            "xhtml": "svet_v_zrnku_pisku_046.html",
+            "id": 45,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_047.md",
+            "xhtml": "svet_v_zrnku_pisku_047.html",
+            "id": 46,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_048.md",
+            "xhtml": "svet_v_zrnku_pisku_048.html",
+            "id": 47,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_049.md",
+            "xhtml": "svet_v_zrnku_pisku_049.html",
+            "id": 48,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_050.md",
+            "xhtml": "svet_v_zrnku_pisku_050.html",
+            "id": 49,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_051.md",
+            "xhtml": "svet_v_zrnku_pisku_051.html",
+            "id": 50,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_052.md",
+            "xhtml": "svet_v_zrnku_pisku_052.html",
+            "id": 51,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_053.md",
+            "xhtml": "svet_v_zrnku_pisku_053.html",
+            "id": 52,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_054.md",
+            "xhtml": "svet_v_zrnku_pisku_054.html",
+            "id": 53,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_055.md",
+            "xhtml": "svet_v_zrnku_pisku_055.html",
+            "id": 54,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_056.md",
+            "xhtml": "svet_v_zrnku_pisku_056.html",
+            "id": 55,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_057.md",
+            "xhtml": "svet_v_zrnku_pisku_057.html",
+            "id": 56,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_058.md",
+            "xhtml": "svet_v_zrnku_pisku_058.html",
+            "id": 57,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_059.md",
+            "xhtml": "svet_v_zrnku_pisku_059.html",
+            "id": 58,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_060.md",
+            "xhtml": "svet_v_zrnku_pisku_060.html",
+            "id": 59,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_061.md",
+            "xhtml": "svet_v_zrnku_pisku_061.html",
+            "id": 60,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_062.md",
+            "xhtml": "svet_v_zrnku_pisku_062.html",
+            "id": 61,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_063.md",
+            "xhtml": "svet_v_zrnku_pisku_063.html",
+            "id": 62,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_064.md",
+            "xhtml": "svet_v_zrnku_pisku_064.html",
+            "id": 63,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_065.md",
+            "xhtml": "svet_v_zrnku_pisku_065.html",
+            "id": 64,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_066.md",
+            "xhtml": "svet_v_zrnku_pisku_066.html",
+            "id": 65,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_067.md",
+            "xhtml": "svet_v_zrnku_pisku_067.html",
+            "id": 66,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_068.md",
+            "xhtml": "svet_v_zrnku_pisku_068.html",
+            "id": 67,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_069.md",
+            "xhtml": "svet_v_zrnku_pisku_069.html",
+            "id": 68,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_070.md",
+            "xhtml": "svet_v_zrnku_pisku_070.html",
+            "id": 69,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_071.md",
+            "xhtml": "svet_v_zrnku_pisku_071.html",
+            "id": 70,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_072.md",
+            "xhtml": "svet_v_zrnku_pisku_072.html",
+            "id": 71,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_073.md",
+            "xhtml": "svet_v_zrnku_pisku_073.html",
+            "id": 72,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_074.md",
+            "xhtml": "svet_v_zrnku_pisku_074.html",
+            "id": 73,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_075.md",
+            "xhtml": "svet_v_zrnku_pisku_075.html",
+            "id": 74,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_076.md",
+            "xhtml": "svet_v_zrnku_pisku_076.html",
+            "id": 75,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_077.md",
+            "xhtml": "svet_v_zrnku_pisku_077.html",
+            "id": 76,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_078.md",
+            "xhtml": "svet_v_zrnku_pisku_078.html",
+            "id": 77,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_079.md",
+            "xhtml": "svet_v_zrnku_pisku_079.html",
+            "id": 78,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_080.md",
+            "xhtml": "svet_v_zrnku_pisku_080.html",
+            "id": 79,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_081.md",
+            "xhtml": "svet_v_zrnku_pisku_081.html",
+            "id": 80,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_082.md",
+            "xhtml": "svet_v_zrnku_pisku_082.html",
+            "id": 81,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_083.md",
+            "xhtml": "svet_v_zrnku_pisku_083.html",
+            "id": 82,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_084.md",
+            "xhtml": "svet_v_zrnku_pisku_084.html",
+            "id": 83,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_085.md",
+            "xhtml": "svet_v_zrnku_pisku_085.html",
+            "id": 84,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_086.md",
+            "xhtml": "svet_v_zrnku_pisku_086.html",
+            "id": 85,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_087.md",
+            "xhtml": "svet_v_zrnku_pisku_087.html",
+            "id": 86,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "svet_v_zrnku_pisku_088.md",
+            "xhtml": "svet_v_zrnku_pisku_088.html",
+            "id": 87,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Svět v zrnku písku",
+      "identifier": "8e73de09-b542-49f8-84d4-002ad05e4ad2",
+      "author": "William Blake",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2018-04-24T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_001.md",
+        "xhtml": "svet_v_zrnku_pisku_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_002.md",
+        "xhtml": "svet_v_zrnku_pisku_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_003.md",
+        "xhtml": "svet_v_zrnku_pisku_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_004.md",
+        "xhtml": "svet_v_zrnku_pisku_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_005.md",
+        "xhtml": "svet_v_zrnku_pisku_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_006.md",
+        "xhtml": "svet_v_zrnku_pisku_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_007.md",
+        "xhtml": "svet_v_zrnku_pisku_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_008.md",
+        "xhtml": "svet_v_zrnku_pisku_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_009.md",
+        "xhtml": "svet_v_zrnku_pisku_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_010.md",
+        "xhtml": "svet_v_zrnku_pisku_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_011.md",
+        "xhtml": "svet_v_zrnku_pisku_011.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_012.md",
+        "xhtml": "svet_v_zrnku_pisku_012.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_013.md",
+        "xhtml": "svet_v_zrnku_pisku_013.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_014.md",
+        "xhtml": "svet_v_zrnku_pisku_014.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_015.md",
+        "xhtml": "svet_v_zrnku_pisku_015.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_016.md",
+        "xhtml": "svet_v_zrnku_pisku_016.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_017.md",
+        "xhtml": "svet_v_zrnku_pisku_017.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_018.md",
+        "xhtml": "svet_v_zrnku_pisku_018.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_019.md",
+        "xhtml": "svet_v_zrnku_pisku_019.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_020.md",
+        "xhtml": "svet_v_zrnku_pisku_020.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_021.md",
+        "xhtml": "svet_v_zrnku_pisku_021.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_022.md",
+        "xhtml": "svet_v_zrnku_pisku_022.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_023.md",
+        "xhtml": "svet_v_zrnku_pisku_023.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_024.md",
+        "xhtml": "svet_v_zrnku_pisku_024.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_025.md",
+        "xhtml": "svet_v_zrnku_pisku_025.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_026.md",
+        "xhtml": "svet_v_zrnku_pisku_026.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_027.md",
+        "xhtml": "svet_v_zrnku_pisku_027.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_028.md",
+        "xhtml": "svet_v_zrnku_pisku_028.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_029.md",
+        "xhtml": "svet_v_zrnku_pisku_029.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_030.md",
+        "xhtml": "svet_v_zrnku_pisku_030.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_031.md",
+        "xhtml": "svet_v_zrnku_pisku_031.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_032.md",
+        "xhtml": "svet_v_zrnku_pisku_032.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_033.md",
+        "xhtml": "svet_v_zrnku_pisku_033.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_034.md",
+        "xhtml": "svet_v_zrnku_pisku_034.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_035.md",
+        "xhtml": "svet_v_zrnku_pisku_035.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_036.md",
+        "xhtml": "svet_v_zrnku_pisku_036.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_037.md",
+        "xhtml": "svet_v_zrnku_pisku_037.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_038.md",
+        "xhtml": "svet_v_zrnku_pisku_038.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_039.md",
+        "xhtml": "svet_v_zrnku_pisku_039.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_040.md",
+        "xhtml": "svet_v_zrnku_pisku_040.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_041.md",
+        "xhtml": "svet_v_zrnku_pisku_041.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_042.md",
+        "xhtml": "svet_v_zrnku_pisku_042.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_043.md",
+        "xhtml": "svet_v_zrnku_pisku_043.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_044.md",
+        "xhtml": "svet_v_zrnku_pisku_044.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_045.md",
+        "xhtml": "svet_v_zrnku_pisku_045.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_046.md",
+        "xhtml": "svet_v_zrnku_pisku_046.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_047.md",
+        "xhtml": "svet_v_zrnku_pisku_047.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_048.md",
+        "xhtml": "svet_v_zrnku_pisku_048.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_049.md",
+        "xhtml": "svet_v_zrnku_pisku_049.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_050.md",
+        "xhtml": "svet_v_zrnku_pisku_050.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_051.md",
+        "xhtml": "svet_v_zrnku_pisku_051.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_052.md",
+        "xhtml": "svet_v_zrnku_pisku_052.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_053.md",
+        "xhtml": "svet_v_zrnku_pisku_053.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_054.md",
+        "xhtml": "svet_v_zrnku_pisku_054.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_055.md",
+        "xhtml": "svet_v_zrnku_pisku_055.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_056.md",
+        "xhtml": "svet_v_zrnku_pisku_056.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_057.md",
+        "xhtml": "svet_v_zrnku_pisku_057.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_058.md",
+        "xhtml": "svet_v_zrnku_pisku_058.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_059.md",
+        "xhtml": "svet_v_zrnku_pisku_059.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_060.md",
+        "xhtml": "svet_v_zrnku_pisku_060.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_061.md",
+        "xhtml": "svet_v_zrnku_pisku_061.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_062.md",
+        "xhtml": "svet_v_zrnku_pisku_062.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_063.md",
+        "xhtml": "svet_v_zrnku_pisku_063.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_064.md",
+        "xhtml": "svet_v_zrnku_pisku_064.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_065.md",
+        "xhtml": "svet_v_zrnku_pisku_065.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_066.md",
+        "xhtml": "svet_v_zrnku_pisku_066.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_067.md",
+        "xhtml": "svet_v_zrnku_pisku_067.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_068.md",
+        "xhtml": "svet_v_zrnku_pisku_068.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_069.md",
+        "xhtml": "svet_v_zrnku_pisku_069.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_070.md",
+        "xhtml": "svet_v_zrnku_pisku_070.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_071.md",
+        "xhtml": "svet_v_zrnku_pisku_071.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_072.md",
+        "xhtml": "svet_v_zrnku_pisku_072.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_073.md",
+        "xhtml": "svet_v_zrnku_pisku_073.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_074.md",
+        "xhtml": "svet_v_zrnku_pisku_074.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_075.md",
+        "xhtml": "svet_v_zrnku_pisku_075.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_076.md",
+        "xhtml": "svet_v_zrnku_pisku_076.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_077.md",
+        "xhtml": "svet_v_zrnku_pisku_077.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_078.md",
+        "xhtml": "svet_v_zrnku_pisku_078.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_079.md",
+        "xhtml": "svet_v_zrnku_pisku_079.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_080.md",
+        "xhtml": "svet_v_zrnku_pisku_080.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_081.md",
+        "xhtml": "svet_v_zrnku_pisku_081.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_082.md",
+        "xhtml": "svet_v_zrnku_pisku_082.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_083.md",
+        "xhtml": "svet_v_zrnku_pisku_083.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_084.md",
+        "xhtml": "svet_v_zrnku_pisku_084.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_085.md",
+        "xhtml": "svet_v_zrnku_pisku_085.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_086.md",
+        "xhtml": "svet_v_zrnku_pisku_086.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_087.md",
+        "xhtml": "svet_v_zrnku_pisku_087.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "svet_v_zrnku_pisku_088.md",
+        "xhtml": "svet_v_zrnku_pisku_088.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002.png"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      }
+    ],
+    "classes": [
+      "calibre10",
+      "calibre12",
+      "calibre13",
+      "calibre14",
+      "calibre4",
+      "calibre5",
+      "calibre6",
+      "mlpdopispodpis",
+      "mlpdopispodpisi",
+      "mlphvezdicky",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicenceparagraf",
+      "mlplicencetext",
+      "mlpobrazky",
+      "mlpseznam",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptextbez1radku3",
+      "mlptextbez1radku4",
+      "mlptirazautoranazev",
+      "mlptitulkaautor",
+      "mlptitulkanazev",
+      "mlptitulkaprekladatel",
+      "mlpuroven1cast",
+      "mlpuroven2basne",
+      "mlpuroven3basne",
+      "mlpvenovani",
+      "mlpverse",
+      "mlpverse1",
+      "mlpverse2",
+      "mlpverse3",
+      "mlpznaktucne",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection10",
+      "wordsection11",
+      "wordsection12",
+      "wordsection13",
+      "wordsection14",
+      "wordsection15",
+      "wordsection16",
+      "wordsection17",
+      "wordsection18",
+      "wordsection19",
+      "wordsection20",
+      "wordsection21",
+      "wordsection22",
+      "wordsection23",
+      "wordsection24",
+      "wordsection25",
+      "wordsection26",
+      "wordsection27",
+      "wordsection28",
+      "wordsection29",
+      "wordsection3",
+      "wordsection30",
+      "wordsection31",
+      "wordsection32",
+      "wordsection4",
+      "wordsection5",
+      "wordsection6",
+      "wordsection7",
+      "wordsection8",
+      "wordsection9"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "blake-svet-v-zrnku-pisku"
+    },
+    "generatedAt": 1652420397720
+  }
+}
