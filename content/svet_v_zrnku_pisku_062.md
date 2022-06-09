@@ -1,5 +1,6 @@
 ---
+title: KNIHA THEL
 contentType: prose
 ---
 
-# KNIHA THEL
+

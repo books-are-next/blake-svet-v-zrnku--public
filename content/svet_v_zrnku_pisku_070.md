@@ -1,5 +1,6 @@
 ---
+title: AMERIKA
 contentType: prose
 ---
 
-# AMERIKA
+

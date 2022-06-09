@@ -1,5 +1,6 @@
 ---
+title: BÁSNICKÉ ČRTY
 contentType: prose
 ---
 
-# BÁSNICKÉ ČRTY
+

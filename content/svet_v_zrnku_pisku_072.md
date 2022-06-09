@@ -1,5 +1,6 @@
 ---
+title: EVROPA
 contentType: prose
 ---
 
-# EVROPA
+
