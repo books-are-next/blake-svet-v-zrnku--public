@@ -1,5 +1,6 @@
 ---
+title: MIMO SBÍRKY
 contentType: prose
 ---
 
-# MIMO SBÍRKY
+

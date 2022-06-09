@@ -1,6 +1,6 @@
 ---
+title: FRANCOUZSKÁ REVOLUCE
 contentType: prose
 ---
 
-# FRANCOUZSKÁ  
-REVOLUCE
+
