@@ -1,9 +1,9 @@
 ---
-title: ''
+title: William Bond
 contentType: prose
 ---
 
-## William Bond
+<section>
 
 Já nevím, zdali dívky nejsou šílené,  
 a nevím, zdali nelpí vražda v duši žen,  
@@ -69,3 +69,5 @@ Hledej svou lásku v něžném soucitu,
 když na pomoc jdeš cizím trampotám,  
 a v zimním sněhu, v nočních temnotách,  
 v nahých a chudých, lásku najdeš tam!
+
+</section>

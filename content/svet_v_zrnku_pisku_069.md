@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Nesrovnalosti
 contentType: prose
 ---
 
-## Nesrovnalosti
+<section>
 
 Což nesmějí se ústa daru, nesmějí se víčka  
 i nejvzácnější námaze? A vzal bys opici  
@@ -28,3 +28,5 @@ ramena krčí pod metlou a pak má celou noc
 roztáčet kolo klamné rozkoše a nutit lůno  
 s odporem rodit andílky, co v lidské podobě  
 prožijí jenom zmar a mizejí jak povětroně?
+
+</section>

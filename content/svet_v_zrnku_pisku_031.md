@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Lidský pomysl
 contentType: prose
 ---
 
-## Lidský pomysl
+<section>
 
 Abychom soucit cítili,  
 jiné jsme ožebračili,  
@@ -34,3 +34,5 @@ Bohové na souši i ve vodě
 hledali ten strom v přírodě,  
 však s praubohým ziskem.  
 Roste jen v mozku lidském.
+
+</section>

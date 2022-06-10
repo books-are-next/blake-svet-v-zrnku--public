@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Žal v plenkách
 contentType: prose
 ---
 
-## Žal v plenkách
+<section>
 
 Sténala matka, otec zbled.  
 Já vtrhl v nebezpečný svět,  
@@ -34,3 +34,5 @@ Můj otec s biblí v pravici
 měl zbožný výraz na líci  
 a po otcovském prokletí  
 myrtou mě uvrh v zajetí.
+
+</section>

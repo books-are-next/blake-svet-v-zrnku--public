@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Andělův zpěv zněl
 contentType: prose
 ---
 
-## Andělův zpěv zněl
+<section>
 
 Andělův zpěv zněl,  
 když den nadcházel:  
@@ -29,3 +29,5 @@ Déšť se rozběsní
 nad úrodou žní.  
 Milost, soucit, hleď,  
 rostou jenom z běd.
+
+</section>

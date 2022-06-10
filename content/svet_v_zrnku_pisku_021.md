@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Svátek Nanebevstoupení
 contentType: prose
 ---
 
-## Svátek Nanebevstoupení
+<section>
 
 Je v tom něco zbožného,  
 hledět na úrodnou zem,  
@@ -24,3 +24,5 @@ Kde je slunce na nebi
 a kde vůbec padá déšť,  
 nesmí strašit chudoba,  
 nesmí děcko hladovět!
+
+</section>

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Moucha
 contentType: prose
 ---
 
-## Moucha
+<section>
 
 Muško, muško,  
 létem jsi vířila,  
@@ -29,3 +29,5 @@ pak šťastnou mouchou
 jsem také já sám,  
 ať žiju,  
 nebo umírám.
+
+</section>

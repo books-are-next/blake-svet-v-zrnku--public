@@ -1,10 +1,9 @@
 ---
-title: ''
+title: Dlouhý John Brown a malá Mary Bellová
 contentType: prose
 ---
 
-## Dlouhý John Brown  
-a malá Mary Bellová
+<section>
 
 V oříšku měla skřítka malá Mary Bellová,  
 dlouhému Johnu Brownovi se čert skryl do střeva.  
@@ -30,3 +29,5 @@ Vyskočil skřítek ze skořápky oříšku
 a smutek přepad krásnou Mary ve mžiku.  
 Vplížil se do ní čert, když skřítek vyskočil,  
 a slečně Mary starý ztuchlý ořech zbyl.
+
+</section>

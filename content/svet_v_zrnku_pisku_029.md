@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Malý pobuda
 contentType: prose
 ---
 
-## Malý pobuda
+<section>
 
 Víš, maminko, v kostele studeno je,  
 a v hospodě člověk se rozehřeje.  
@@ -24,3 +24,5 @@ A otcovský Bůh, který uvidí rád
 své děti tak šťastné, jak lze si jen přát,  
 už nezvedne hlas, že je zlem truňk či ďas,  
 a políbí ďábla a vystrojí kvas.
+
+</section>

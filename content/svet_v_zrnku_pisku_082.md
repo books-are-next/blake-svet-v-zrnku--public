@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Jeruzalém
 contentType: prose
 ---
 
-## Jeruzalém
+<section>
 
 Šly ony nohy v pravěku  
 po lukách v horách Anglie?  
@@ -24,3 +24,5 @@ Neumdlím v boji duchovním
 ani meč v ruce nestrne mi,  
 než Jeruzalém vyvstane  
 v anglické svěží, krásné zemi.
+
+</section>

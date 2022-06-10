@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Zpěv o zpěvu
 contentType: prose
 ---
 
-## Zpěv o zpěvu
+<section>
 
 Pískaje si písničku  
 po údolích divokých,  
@@ -29,3 +29,5 @@ prosté pero urobil,
 vodu zbarvil trošičku,  
 napsal zpěvy šťastných chvil,  
 dětem pěknou písničku.
+
+</section>

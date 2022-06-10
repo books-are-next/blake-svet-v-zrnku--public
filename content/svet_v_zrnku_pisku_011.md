@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Miluji něžný zpěv
 contentType: prose
 ---
 
-## Miluji něžný zpěv
+<section>
 
 Miluji něžný zpěv  
 a tanec veselý,  
@@ -29,3 +29,5 @@ Miluji každého,
 tebe však, Kitty, víc.  
 Jenom ty ze všeho  
 jsi jas mých zřítelnic.
+
+</section>

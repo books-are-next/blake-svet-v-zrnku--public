@@ -1,10 +1,9 @@
 ---
-title: ''
+title: Šťastně jsem bloudil lukami
 contentType: prose
 ---
 
-## Šťastně jsem  
-bloudil lukami
+<section>
 
 Šťastně jsem bloudil lukami  
 a ochutnával letních krás.  
@@ -25,3 +24,5 @@ Láska se na mé písně ptá,
 hraje si se mnou v objetí.  
 Čechrá mi křídla ze zlata,  
 směje se mému zajetí.
+
+</section>

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Bastila
 contentType: prose
 ---
 
-## Bastila
+<section>
 
 V Krvavé věži na kamenném loži zbyla v poutech žlutá kostra,  
 kdysi muž, jenž se nechtěl odříct občanského práva. Věčný červ  
@@ -16,3 +16,5 @@ choulí se ve dne žárem, v noci chladem. Jeho kobka je tak malá,
 když za druhy má jenom štíry, hady. Nerušeně dýchají  
 jeho dech plný žalu. Svědomím hnán začal kázat v Paříži,  
 zázrakům učil nevědomé duše.
+
+</section>

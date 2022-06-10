@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Urizenovi synové
 contentType: prose
 ---
 
-## Urizenovi synové
+<section>
 
 Urizenovi synové pak odvrhli pluh, brány,  
 stav, kladivo i dláto, pravítko a kružidlo.  
@@ -22,3 +22,5 @@ držené v nevědomosti. A ty pak promarňují
 dny moudrosti v zlé dřině pro ubohý žvanec chleba  
 a považují zlomek za celek a za poznání,  
 zástupy slepé ke všem prostým pravdám života.
+
+</section>

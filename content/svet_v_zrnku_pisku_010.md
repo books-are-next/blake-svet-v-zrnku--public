@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Láska
 contentType: prose
 ---
 
-## Láska
+<section>
 
 Láska do harmonií  
 naše duše ovíjí  
@@ -29,3 +29,5 @@ Ve svém hnízdě líbezném
 celou noc spí dlouhým snem.  
 Ve dne srdce potěší,  
 v našich větvích hraje si.
+
+</section>

@@ -1,10 +1,9 @@
 ---
-title: ''
+title: Otevřte pařížské bordely
 contentType: prose
 ---
 
-## Otevřte pařížské  
-bordely
+<section>
 
 „Otevřte pařížské bordely,  
 ať všechno se tancem rozžije,  
@@ -64,3 +63,5 @@ Kdo by se usmíval na zimní moře
 a litoval bouři, když láteří?  
 Kdo by vyměnil své novorozeně  
 za psíka v zimě u dveří?
+
+</section>

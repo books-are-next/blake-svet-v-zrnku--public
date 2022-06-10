@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Viděl jsem kapli ze zlata
 contentType: prose
 ---
 
-## Viděl jsem kapli ze zlata
+<section>
 
 Viděl jsem kapli ze zlata  
 a kolem ní dav plačících,  
@@ -24,3 +24,5 @@ aby tam na chléb, na víno
 všechny své jedy vyzvracel.  
 A já jsem si pak raději  
 do chlívka k vepřům lehnout šel.
+
+</section>

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Ztratil jsem při lásce
 contentType: prose
 ---
 
-## Ztratil jsem při lásce
+<section>
 
 Ztratil jsem při lásce  
 všechen šat, jenž se skví,  
@@ -25,3 +25,5 @@ Až půjdu smrti vstříc,
 ať zuří vichřice.  
 Klesnu jak chladná zem.  
 Toť láska nad hrobem!
+
+</section>

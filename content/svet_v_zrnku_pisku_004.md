@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Svět v zrnku písku](https://search.mlp.cz/cz/titul/svet-v-zrnku-pisku/158888/) tak, jak bylo vydáno v Praze nakladatelstvím Mladá fronta v roce 1964.
 
 * * *
@@ -24,3 +26,5 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 Verze 1.0 z 20. 4. 2018.
 
 ![0](./resources/image002.png)
+
+</section>

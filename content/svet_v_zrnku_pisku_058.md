@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Úsměv
 contentType: prose
 ---
 
-## Úsměv
+<section>
 
 V životě úsměv lásky je  
 a také úsměv šalebný,  
@@ -24,3 +24,5 @@ od kolébky až ke hrobu
 jedenkrát objeví se ti,  
 ale v tom jednom úsměvu  
 je konec všeho neštěstí.
+
+</section>

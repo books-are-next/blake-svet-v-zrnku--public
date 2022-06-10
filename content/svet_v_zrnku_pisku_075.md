@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Svůdcové lidstva
 contentType: prose
 ---
 
-## Svůdcové lidstva
+<section>
 
 Což nepřivolá král hlad z pustiny  
 nebo kněz mor z bažin,  
@@ -33,3 +33,5 @@ a ouško už v dětství
 otupělo a chřípí se stáhla,  
 aby se smrtelní červi naučili jít stezkou,  
 jež vede k branám hrobu.
+
+</section>

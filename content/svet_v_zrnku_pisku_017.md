@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Zpěv smíchu
 contentType: prose
 ---
 
-## Zpěv smíchu
+<section>
 
 Když se celý les směje radostí,  
 když se potůček směje z bujnosti,  
@@ -19,3 +19,5 @@ když se ptačí sbor směje v lesíku
 a máš plný stůl třešní, oříšků,  
 jen se vesele přidej k písničce,  
 rozjásejme se všichni od srdce!
+
+</section>

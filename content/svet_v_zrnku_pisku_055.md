@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Šedivý mnich
 contentType: prose
 ---
 
-## Šedivý mnich
+<section>
 
 Pravila matka: „Umírám!  
 Jak chleba vlastním dětem dám?  
@@ -49,3 +49,5 @@ Pomsta si našla tyrana,
 kam vedla stopa proradná.  
 Když rozbila mu hlavu msta,  
 v tyrana sama vyrůstá.“
+
+</section>

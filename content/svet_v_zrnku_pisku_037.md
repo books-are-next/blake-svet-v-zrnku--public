@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Obraz boží
 contentType: prose
 ---
 
-## Obraz boží
+<section>
 
 Ukrutnost lidské srdce má  
 a žárlivost má lidskou tvář.  
@@ -14,3 +14,5 @@ Lidský šat lité železo,
 lidský zjev v ohni ukován,  
 lidská tvář rozpálená pec  
 a lidské srdce chtivý chřtán.
+
+</section>

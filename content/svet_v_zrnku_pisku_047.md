@@ -1,10 +1,9 @@
 ---
-title: ''
+title: Láska k chybám slepá je
 contentType: prose
 ---
 
-## Láska k chybám  
-slepá je
+<section>
 
 Láska k chybám slepá je,  
 upne k štěstí naděje,  
@@ -15,3 +14,5 @@ nad okovy vyzraje.
 opatrně pracuje,  
 jen na svůj zisk dbalá je,  
 v duši pouta ukuje.
+
+</section>

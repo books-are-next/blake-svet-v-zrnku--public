@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Ztracený chlapec
 contentType: prose
 ---
 
-## Ztracený chlapec
+<section>
 
 „Každý sám v sobě vidí vzor  
 a nejradši sám sebe má,  
@@ -34,3 +34,5 @@ Na svaté zemřel hranici,
 jak mnohé jiné zabijí.  
 Plakali marně rodiče.  
 Tohle se děje v Anglii?
+
+</section>

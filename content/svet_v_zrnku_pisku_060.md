@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Mary
 contentType: prose
 ---
 
-## Mary
+<section>
 
 Když mezi krásky Mary spanilá  
 do tanečního sálu prvně vkročila,  
@@ -64,3 +64,5 @@ Tvoje tvář zná jen lásku zoufalou,
 tvoje tvář zná jen žalost utkvělou,  
 tvoje tvář teď zná jenom hrůzu, strach  
 a uklidní se teprv na márách.
+
+</section>

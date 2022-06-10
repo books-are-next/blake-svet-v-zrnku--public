@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Pravda v maličkostech
 contentType: prose
 ---
 
-## Pravda v maličkostech
+<section>
 
 V mlčení všichni nabyli své lidské důstojnosti  
 a orajíce mnozí hovořili o těch věcech:  
@@ -26,3 +26,5 @@ ne všeobecným rozumářským dokazováním.
 Je nekonečno jenom v určitém a vymezeném  
 a pravda zvítězí jen vyhubením nepravdy,  
 obřízkou, a ne panictvím, vy rozumáři!“
+
+</section>
