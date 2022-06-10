@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Usnula láska na stráni
 contentType: prose
 ---
 
-## Usnula láska na stráni
+<section>
 
 Usnula láska na stráni  
 a já jsem uleh opodál.  
@@ -14,3 +14,5 @@ Vyšel jsem na tu pustou zem.
 Bodláčí, trní, ostny  
 tam plakaly, že podvodem  
 dohnány byly k ctnosti.
+
+</section>

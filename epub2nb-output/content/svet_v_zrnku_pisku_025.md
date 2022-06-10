@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Anděl
 contentType: prose
 ---
 
-## Anděl
+<section>
 
 Já snil jsem sen. Co znamenal?  
 Královskou pannou jsem se stal  
@@ -24,3 +24,5 @@ Zase mě anděl navštívil,
 nadarmo, ozbrojen jsem byl,  
 ale je konec mladých let  
 a začínám už šedivět.
+
+</section>

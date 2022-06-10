@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Francouzská revoluce
 contentType: prose
 ---
 
-## Francouzská revoluce
+<section>
 
 Zemřelí plují nad Evropou, nad Francií mračno, vidina.  
 Vydatné mračno. Chorý vladař na svém loži, šerou, děsivou  
@@ -26,3 +26,5 @@ Francie opět přivolává jitro, které věští ranním mrakům.
 Poslanci lidu scházejí se. Francie se otřásá! A nebe  
 se chvěje kolem každé opatrné tváře! Temnou minulostí  
 zoufale kvílí Paříž. Věže sténají a Bastila se třese.
+
+</section>

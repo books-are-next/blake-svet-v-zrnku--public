@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Duchovní poutník
 contentType: prose
 ---
 
-## Duchovní poutník
+<section>
 
 Já lidskou zemí putoval,  
 putoval zemí mužů, žen  
@@ -134,3 +134,5 @@ Nikdo se děcka nedotkne,
 až na tu starou babici.  
 Ta přibije ho ke skále,  
 a nemusím už doříci.
+
+</section>

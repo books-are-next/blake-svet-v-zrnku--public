@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Bláznivý zpěv
 contentType: prose
 ---
 
-## Bláznivý zpěv
+<section>
 
 Větrný kvil  
 a noční chlad.  
@@ -31,3 +31,5 @@ Východu sbohem dám,
 všem jeho útěchám.  
 Světlem jen bolesti  
 do mozku dští.
+
+</section>

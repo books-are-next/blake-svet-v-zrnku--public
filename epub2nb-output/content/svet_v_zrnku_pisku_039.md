@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Nechtěj lásce vyslovit
 contentType: prose
 ---
 
-## Nechtěj lásce vyslovit
+<section>
 
 Nechtěj lásce vyslovit,  
 co v ní nevýslovné je.  
@@ -19,3 +19,5 @@ Ale sotva zmizela,
 přišla pocestná,  
 tichá, neviditelná –  
 ale skutečná.
+
+</section>

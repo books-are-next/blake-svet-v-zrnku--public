@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 _Thelino moto_
 
 Cožpak ví orel, co je v hlubinách?  
@@ -10,7 +12,7 @@ Nebo se člověk krtka ptá?
 Lze moudrost v stříbrný prut uložit?  
 Či lásku v číši ze zlata?
 
-### I
+## I
 
 Radostně vyháněly dcery serafů svá stáda,  
 jen nejmladší ne. Hledala ta bledá samotu,  
@@ -62,7 +64,7 @@ Obláčku, sestup níže a pluj před očima Thel.“
 Když připlul, konvalinka skromně hlavu sklonila,  
 v zelené trávě vrátila se ke svým úkolům.
 
-### II
+## II
 
 „Obláčku,“ řekla panna, „já tě prosím, pověz mi,  
 proč nenaříkáš, když se za hodinu rozplyneš?  
@@ -102,7 +104,7 @@ Pojď, červe tichých údolí, k své snící královně.“
 Vylezl ubohý červ, sedl na list konvalinky  
 a jasný oblak odplul za svým druhem v údolí.
 
-### III
+## III
 
 Na červa v rose hleděla Thel v němém úžasu.
 
@@ -139,7 +141,7 @@ tvé vzdechy nad svým krovem plout a přivolala je.
 Královno, nechceš navštívit můj dům? Když vstoupíš tam  
 panenskou nohou, smíš se vrátit. Nestrachuj se vejít.“
 
-### IV
+## IV
 
 Otevřel strašný vrátný severní vchod věčných bran.  
 Thel vešla do tajemné, nepoznané končiny.  
@@ -166,3 +168,5 @@ Proč lehká rouška těla hloubku lásky zakrývá?“
 
 Tu panna vyskočila, vykřikla a prchala,  
 až bez překážky vrátila se do svých údolí.
+
+</section>

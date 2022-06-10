@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Pekelná přísloví
 contentType: prose
 ---
 
-## Pekelná přísloví
+<section>
 
 Cesta extrémů vede do paláce moudrosti.
 
@@ -88,3 +88,5 @@ VĚČNÉ EVANGELIUM
 
 Ty jsi člověk a Bůh více není.  
 Ať si každý svého lidství cení.
+
+</section>

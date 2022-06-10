@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Křišťálová komnata
 contentType: prose
 ---
 
-## Křišťálová komnata
+<section>
 
 Chytla mě dívka v pustině,  
 kde tancoval jsem radostně.  
@@ -39,3 +39,5 @@ plačící děcko v pustině
 s plačící ženou, samý žal,  
 a já v tom vnějším povětří  
 do vířícího větru lkal.
+
+</section>

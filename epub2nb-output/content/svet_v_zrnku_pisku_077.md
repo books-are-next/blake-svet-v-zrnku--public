@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Zkušenost
 contentType: prose
 ---
 
-## Zkušenost
+<section>
 
 Co stojí zkušenost? Což se dá koupit za písničku?  
 Či moudrost za taneček na ulici? Kupuješ je  
@@ -17,3 +17,5 @@ Je snadné mluvit k ubožákům o trpělivosti,
 vykládat tulákovi bez domova o moudrosti,  
 naslouchat v zimě křiku hladového havrana,  
 když v těle krev máš nasycenou skopovým a vínem.
+
+</section>

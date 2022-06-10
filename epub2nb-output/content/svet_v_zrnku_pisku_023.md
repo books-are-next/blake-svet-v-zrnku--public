@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Nemocná růže
 contentType: prose
 ---
 
-## Nemocná růže
+<section>
 
 Růže, tys nemocná!  
 Hmyz neviditelný,  
@@ -14,3 +14,5 @@ tvé štěstí objevil,
 tvé rudé vzplanutí,  
 a láskou tajemnou  
 tě usmrtí.
+
+</section>

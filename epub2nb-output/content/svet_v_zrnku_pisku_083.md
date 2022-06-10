@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Milton
 contentType: prose
 ---
 
-## Milton
+<section>
 
 Z východní brány Satanova světa Milton řekl:
 
@@ -21,3 +21,5 @@ a strachu, hrůze, svíravé a podlé sobeckosti.
 Můj cíl je učit lidi, aby pohrdali smrtí,  
 šli v důstojném a smělém sebezničení se smát  
 tvým zákonům a hrůzám, srážet pavučiny chrámů.“
+
+</section>

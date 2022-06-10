@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Otázky
 contentType: prose
 ---
 
-## Otázky
+<section>
 
 Řekni mi, čím je noc či den těm, které strhl žal.  
 Řekni mi, co je myšlenka a z jaké látky vzniká.  
@@ -20,3 +20,5 @@ Kam kráčíš, myšlenko, jak daleko nám unikáš?
 Kdyby ses navrátila v bezútěšnou přítomnost,  
 na křídlech přinesla bys útěchu, med, rosu, balzám,  
 či snad jed z pusté divočiny, z nepřejícných očí?
+
+</section>

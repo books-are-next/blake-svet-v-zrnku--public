@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Ve stínu myrty
 contentType: prose
 ---
 
-## Ve stínu myrty
+<section>
 
 Proč jsi jako okovy,  
 krásný strome myrtový?  
@@ -24,3 +24,5 @@ Vlastním synem sražený
 zkrvaví tvé kořeny,  
 když je konec mladých let  
 a já začnu šedivět.
+
+</section>

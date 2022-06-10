@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Kominíček
 contentType: prose
 ---
 
-## Kominíček
+<section>
 
 Ve sněhu kominíček lká  
 a volá na zákazníka.  
@@ -19,3 +19,5 @@ A když jsem někdy veselý,
 myslí si, že mě těší svět.  
 Trůn, boha, kněze slavit šli,  
 že tvoří nebe z našich běd.“
+
+</section>

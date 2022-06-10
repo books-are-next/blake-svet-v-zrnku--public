@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Proroctví nevinnosti
 contentType: prose
 ---
 
-## Proroctví nevinnosti
+<section>
 
 Celý svět v zrnku písku zhlédnout  
 a nebe v polní květině,  
@@ -138,3 +138,5 @@ Bůh se jeví v záři skvoucí
 ubohým duším v stánku noci,  
 leč jeví se být člověkem  
 těm, v jejichž říši vládne den.
+
+</section>

@@ -1,11 +1,11 @@
 ---
-title: ''
+title: Beránek
 contentType: prose
 ---
 
-## Beránek
+<section>
 
-     Beránku, kdo tebe stvořil?  
+Beránku, kdo tebe stvořil?  
      Zdalipak víš, kdo tě stvořil?  
 Dal ti život, nasytí  
 travnatými pažity.  
@@ -26,3 +26,5 @@ Děckem jsem, ty beránkem,
 já, ty, on jsme stejných jmen.  
      Žehnej tobě, kdo tě stvořil,  
      víš, beránku, ten tě stvořil!
+
+</section>

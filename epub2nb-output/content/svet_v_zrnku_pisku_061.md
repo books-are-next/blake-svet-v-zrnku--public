@@ -1,10 +1,9 @@
 ---
-title: ''
+title: Žalobníkovi, jenž je bohem tohoto světa
 contentType: prose
 ---
 
-## Žalobníkovi, jenž je  
-bohem tohoto světa
+<section>
 
 Satane, hlupák jsi všech hlupáků,  
 když od člověka nerozeznáš šat.  
@@ -15,3 +14,5 @@ Dáváš se pod božskými jmény ctít
 co Ježíš, Jehova, a přece jsi  
 jen Lucifer, jenž ruší noční klid,  
 bludička pocestného pod kopci.
+
+</section>

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: K Múzám
 contentType: prose
 ---
 
-## K Múzám
+<section>
 
 Ať v stinných horách nad Trójou,  
 či ve východních komnatách,  
@@ -24,3 +24,5 @@ Poezií dnes zrazenou
 se dávní pěvci těšili.  
 Mdlé struny se teď sotva hnou.  
 Zvuk strohý je, zpěv unylý.
+
+</section>

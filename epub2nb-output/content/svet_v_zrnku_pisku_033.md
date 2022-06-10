@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Jedovatý strom
 contentType: prose
 ---
 
-## Jedovatý strom
+<section>
 
 Na přítele měl jsem vztek.  
 Přešel, jak jsem slovo řek.  
@@ -24,3 +24,5 @@ k tomu stromu se mi vkrad,
 sotva se noc snesla v sad.  
 Ráno šťasten viděl jsem  
 ležet soka pod stromem.
+
+</section>

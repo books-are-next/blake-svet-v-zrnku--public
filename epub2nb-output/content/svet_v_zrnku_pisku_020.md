@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Hrouda a oblázek
 contentType: prose
 ---
 
-## Hrouda a oblázek
+<section>
 
 „Láska se nechce sobě zalíbit  
 a cizí štěstí klade nad vlastní,  
@@ -19,3 +19,5 @@ klokotal verše uváženější:
 jiného spoutá pro slast ze své hry,  
 jinému ukradne i jeho klid  
 a tvoří peklo nebi navzdory.“
+
+</section>

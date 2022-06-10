@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Školák
 contentType: prose
 ---
 
-## Školák
+<section>
 
 Mám letní jitro nejraději.  
 Zpívají ptáci o překot,  
@@ -40,3 +40,5 @@ a zralé plody urodit?
 Jak sklízet to, co vzaly strasti,  
 a chválit štědrý zimní klid  
 ve větru z oranišť?
+
+</section>

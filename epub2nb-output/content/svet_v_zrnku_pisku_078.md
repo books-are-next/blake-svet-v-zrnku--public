@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Vykořisťování
 contentType: prose
 ---
 
-## Vykořisťování
+<section>
 
 Nuť lstivou vlídností žít chudé jenom z kůrek chleba.  
 Usměj se, když se mračí, mrač se, když se usmívají.  
@@ -18,3 +18,5 @@ Kaž odříkání. Řekni, že je přesycen a zpit
 kořalkou, ač víš, že si může dopřát jenom chléb  
 a vodu. Lichoť jeho ženě, lituj děti, dokud  
 je všechny lstivě nezkrotíme jako křepeláky.
+
+</section>

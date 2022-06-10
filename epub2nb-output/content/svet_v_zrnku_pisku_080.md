@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Pukající svět
 contentType: prose
 ---
 
-## Pukající svět
+<section>
 
 A puká článek od článku, svět praská, vybuchuje.  
 Vše zase prchlo od svých středů. Kosti s chřestotem  
@@ -31,3 +31,5 @@ v zběsilém větru, volá: „Děti šesti tisíc let,
 zemřelé v dětství, zuří. Strašný zástup děcek běsní,  
 nahé a bledé stojí, čekajíce na život.  
 Drásají válečníkovy a tyranovy údy.“
+
+</section>

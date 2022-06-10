@@ -8,22 +8,22 @@
       "modified": "2018-04-24T00:00:00.000Z"
     },
     "elements": {
-      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\ne.booknadpis.*\nheading.id.2\nmlpuroven1cast\nmlpuroven2kapitola",
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
       "subtitle": "",
-      "h2": "MLP.uroven3.nadpis\nMLP.UROVEN3.NADPIS.DRAMA",
+      "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
       "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
       "h4": "MLP.uroven5.nadpis",
       "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": ".+12.0\n.+12.12\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
-      "brAfter": ".+0.12\n.+12.12\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
       "centered": ".*uprostred.*",
       "figure": "MLP.obrazky.*\nmlpobrazky",
-      "em": ".*kurziva.*\n.*-I-.*\n.*--I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
-      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
       "verse": "MLP.verse.*",
       "remove": "",
       "ignore": ""
@@ -1051,43 +1051,43 @@
         "xhtml": "svet_v_zrnku_pisku_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "K Múzám",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_007.md",
         "xhtml": "svet_v_zrnku_pisku_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Šťastně jsem bloudil lukami",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_008.md",
         "xhtml": "svet_v_zrnku_pisku_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ztratil jsem při lásce",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_009.md",
         "xhtml": "svet_v_zrnku_pisku_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Láska",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_010.md",
         "xhtml": "svet_v_zrnku_pisku_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Miluji něžný zpěv",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_011.md",
         "xhtml": "svet_v_zrnku_pisku_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vzpomínko, ke mně pojď",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_012.md",
         "xhtml": "svet_v_zrnku_pisku_012.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Bláznivý zpěv",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_013.md",
         "xhtml": "svet_v_zrnku_pisku_013.html"
@@ -1099,25 +1099,25 @@
         "xhtml": "svet_v_zrnku_pisku_014.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zpěv o zpěvu",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_015.md",
         "xhtml": "svet_v_zrnku_pisku_015.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Beránek",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_016.md",
         "xhtml": "svet_v_zrnku_pisku_016.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zpěv smíchu",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_017.md",
         "xhtml": "svet_v_zrnku_pisku_017.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jaro",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_018.md",
         "xhtml": "svet_v_zrnku_pisku_018.html"
@@ -1129,109 +1129,109 @@
         "xhtml": "svet_v_zrnku_pisku_019.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hrouda a oblázek",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_020.md",
         "xhtml": "svet_v_zrnku_pisku_020.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Svátek Nanebevstoupení",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_021.md",
         "xhtml": "svet_v_zrnku_pisku_021.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kominíček",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_022.md",
         "xhtml": "svet_v_zrnku_pisku_022.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nemocná růže",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_023.md",
         "xhtml": "svet_v_zrnku_pisku_023.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Moucha",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_024.md",
         "xhtml": "svet_v_zrnku_pisku_024.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Anděl",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_025.md",
         "xhtml": "svet_v_zrnku_pisku_025.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Tygr",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_026.md",
         "xhtml": "svet_v_zrnku_pisku_026.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Slunečnice",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_027.md",
         "xhtml": "svet_v_zrnku_pisku_027.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zahrada lásky",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_028.md",
         "xhtml": "svet_v_zrnku_pisku_028.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Malý pobuda",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_029.md",
         "xhtml": "svet_v_zrnku_pisku_029.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Londýn",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_030.md",
         "xhtml": "svet_v_zrnku_pisku_030.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Lidský pomysl",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_031.md",
         "xhtml": "svet_v_zrnku_pisku_031.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Žal v plenkách",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_032.md",
         "xhtml": "svet_v_zrnku_pisku_032.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jedovatý strom",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_033.md",
         "xhtml": "svet_v_zrnku_pisku_033.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ztracený chlapec",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_034.md",
         "xhtml": "svet_v_zrnku_pisku_034.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Školák",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_035.md",
         "xhtml": "svet_v_zrnku_pisku_035.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hlas dávného pěvce",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_036.md",
         "xhtml": "svet_v_zrnku_pisku_036.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Obraz boží",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_037.md",
         "xhtml": "svet_v_zrnku_pisku_037.html"
@@ -1243,139 +1243,139 @@
         "xhtml": "svet_v_zrnku_pisku_038.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nechtěj lásce vyslovit",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_039.md",
         "xhtml": "svet_v_zrnku_pisku_039.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Usnula láska na stráni",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_040.md",
         "xhtml": "svet_v_zrnku_pisku_040.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Viděl jsem kapli ze zlata",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_041.md",
         "xhtml": "svet_v_zrnku_pisku_041.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Andělův zpěv zněl",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_042.md",
         "xhtml": "svet_v_zrnku_pisku_042.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ukolébavka",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_043.md",
         "xhtml": "svet_v_zrnku_pisku_043.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ve stínu myrty",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_044.md",
         "xhtml": "svet_v_zrnku_pisku_044.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Noci",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_045.md",
         "xhtml": "svet_v_zrnku_pisku_045.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Otče ne náš",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_046.md",
         "xhtml": "svet_v_zrnku_pisku_046.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Láska k chybám slepá je",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_047.md",
         "xhtml": "svet_v_zrnku_pisku_047.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hebký sníh",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_048.md",
         "xhtml": "svet_v_zrnku_pisku_048.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Meč a srp",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_049.md",
         "xhtml": "svet_v_zrnku_pisku_049.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Věčnost",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_050.md",
         "xhtml": "svet_v_zrnku_pisku_050.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Otevřte pařížské bordely",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_051.md",
         "xhtml": "svet_v_zrnku_pisku_051.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Duchovní poutník",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_052.md",
         "xhtml": "svet_v_zrnku_pisku_052.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Křišťálová komnata",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_053.md",
         "xhtml": "svet_v_zrnku_pisku_053.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Proroctví nevinnosti",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_054.md",
         "xhtml": "svet_v_zrnku_pisku_054.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Šedivý mnich",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_055.md",
         "xhtml": "svet_v_zrnku_pisku_055.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dlouhý John Brown a malá Mary Bellová",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_056.md",
         "xhtml": "svet_v_zrnku_pisku_056.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "William Bond",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_057.md",
         "xhtml": "svet_v_zrnku_pisku_057.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Úsměv",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_058.md",
         "xhtml": "svet_v_zrnku_pisku_058.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zlatá síť",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_059.md",
         "xhtml": "svet_v_zrnku_pisku_059.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Mary",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_060.md",
         "xhtml": "svet_v_zrnku_pisku_060.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Žalobníkovi, jenž je bohem tohoto světa",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_061.md",
         "xhtml": "svet_v_zrnku_pisku_061.html"
@@ -1399,13 +1399,13 @@
         "xhtml": "svet_v_zrnku_pisku_064.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Francouzská revoluce",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_065.md",
         "xhtml": "svet_v_zrnku_pisku_065.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Bastila",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_066.md",
         "xhtml": "svet_v_zrnku_pisku_066.html"
@@ -1417,13 +1417,13 @@
         "xhtml": "svet_v_zrnku_pisku_067.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Otázky",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_068.md",
         "xhtml": "svet_v_zrnku_pisku_068.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nesrovnalosti",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_069.md",
         "xhtml": "svet_v_zrnku_pisku_069.html"
@@ -1435,7 +1435,7 @@
         "xhtml": "svet_v_zrnku_pisku_070.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Proroctví Ameriky",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_071.md",
         "xhtml": "svet_v_zrnku_pisku_071.html"
@@ -1447,7 +1447,7 @@
         "xhtml": "svet_v_zrnku_pisku_072.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Žalář Evropy",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_073.md",
         "xhtml": "svet_v_zrnku_pisku_073.html"
@@ -1459,7 +1459,7 @@
         "xhtml": "svet_v_zrnku_pisku_074.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Svůdcové lidstva",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_075.md",
         "xhtml": "svet_v_zrnku_pisku_075.html"
@@ -1471,25 +1471,25 @@
         "xhtml": "svet_v_zrnku_pisku_076.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zkušenost",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_077.md",
         "xhtml": "svet_v_zrnku_pisku_077.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vykořisťování",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_078.md",
         "xhtml": "svet_v_zrnku_pisku_078.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Urizenovi synové",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_079.md",
         "xhtml": "svet_v_zrnku_pisku_079.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pukající svět",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_080.md",
         "xhtml": "svet_v_zrnku_pisku_080.html"
@@ -1501,13 +1501,13 @@
         "xhtml": "svet_v_zrnku_pisku_081.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jeruzalém",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_082.md",
         "xhtml": "svet_v_zrnku_pisku_082.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Milton",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_083.md",
         "xhtml": "svet_v_zrnku_pisku_083.html"
@@ -1519,7 +1519,7 @@
         "xhtml": "svet_v_zrnku_pisku_084.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pravda v maličkostech",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_085.md",
         "xhtml": "svet_v_zrnku_pisku_085.html"
@@ -1531,7 +1531,7 @@
         "xhtml": "svet_v_zrnku_pisku_086.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pekelná přísloví",
         "subtitleSuggest": "",
         "filename": "svet_v_zrnku_pisku_087.md",
         "xhtml": "svet_v_zrnku_pisku_087.html"
@@ -1663,6 +1663,6 @@
       "user": "books-are-next",
       "repo": "blake-svet-v-zrnku-pisku"
     },
-    "generatedAt": 1654779408673
+    "generatedAt": 1654882493530
   }
 }

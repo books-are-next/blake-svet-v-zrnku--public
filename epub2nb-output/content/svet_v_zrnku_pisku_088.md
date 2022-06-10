@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 **William Blake**
 
 **Svět v zrnku písku**
@@ -30,3 +32,5 @@ ISBN 978-80-7587-919-6 (pdf)
 ISBN 978-80-7587-920-2 (prc)
 
 ISBN 978-80-7587-921-9 (html)
+
+</section>

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Proroctví Ameriky
 contentType: prose
 ---
 
-## Proroctví Ameriky
+<section>
 
 V svém nočním stanu plane hněvem albionský vládce.  
 Zlé ohně září přes Atlantik k břehům Ameriky  
@@ -38,3 +38,5 @@ obklopen spoustou temných hrůz, tmou korouhví a věží.
 Procházel šerým vzduchem žár, v němž světla nebylo.
 
 Na západ hleděl anglický král, chvěl se vidinou.
+
+</section>

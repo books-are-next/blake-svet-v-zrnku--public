@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Zahrada lásky
 contentType: prose
 ---
 
-## Zahrada lásky
+<section>
 
 Já do zahrady lásky šel  
 a byl jsem celý zmatený.  
@@ -19,3 +19,5 @@ uzřel jsem jenom samý hrob
 a místo květů náhrobky.  
 Po všech cestičkách kněží v klerikách  
 svazovali hložím všechno, po čem toužím.
+
+</section>

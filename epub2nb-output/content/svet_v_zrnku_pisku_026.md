@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Tygr
 contentType: prose
 ---
 
-## Tygr
+<section>
 
 Tygře, tygře, skvoucí se  
 i v půlnočním pralese,  
@@ -34,3 +34,5 @@ Tygře, tygře, skvoucí se
 i v půlnočním pralese,  
 kdo si trouf být stvořitel  
 strašně plavných tygřích těl?
+
+</section>

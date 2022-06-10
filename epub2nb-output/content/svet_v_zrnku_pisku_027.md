@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Slunečnice
 contentType: prose
 ---
 
-## Slunečnice
+<section>
 
 Slunečnice, unavená časem,  
 věčně měříc kroky sluneční,  
@@ -14,3 +14,5 @@ tam kde jinoch touhou umořený,
 bledá panna v sněžném rubáši  
 vstanou z hrobu s touhou po té zemi,  
 kam sen slunečnici unáší.
+
+</section>

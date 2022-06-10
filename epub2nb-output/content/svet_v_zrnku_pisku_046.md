@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Otče ne náš
 contentType: prose
 ---
 
-## Otče ne náš
+<section>
 
 Proč mlčíš, neviditelný,  
 ty otče nepřející,  
@@ -15,3 +15,5 @@ každý tvůj zákon, rada,
 že člověk raději má ovoce  
 od lstivého hada?  
 Protože žena tajemství má ráda?
+
+</section>

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Zlatá síť
 contentType: prose
 ---
 
-## Zlatá síť
+<section>
 
 Tři panny za rozbřesku dne:  
 „Kam tě tvá cesta povede?  
@@ -31,3 +31,5 @@ chci zas ten plamen přivolat,
 přivolat železný ten drát,  
 přivolat každou slzu, vzdech.  
 Kdy vzejde den v mých obzorech?
+
+</section>
