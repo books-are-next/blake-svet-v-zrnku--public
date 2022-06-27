@@ -284,7 +284,10 @@ tocBase:
       - link: svet_v_zrnku_pisku_062.html
         title: KNIHA THEL
         hiddenTitle: false
-        children: []
+        children:
+          - link: svet_v_zrnku_pisku_063.html
+            title: '---'
+            hiddenTitle: true
         listType: plain
       - link: svet_v_zrnku_pisku_064.html
         title: FRANCOUZSKÁ REVOLUCE
