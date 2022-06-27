@@ -1,6 +1,6 @@
 ---
 title: Nechtěj lásce vyslovit
-contentType: prose
+contentType: poetry
 ---
 
 <section>

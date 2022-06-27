@@ -1,6 +1,6 @@
 ---
 title: Nesrovnalosti
-contentType: prose
+contentType: poetry
 ---
 
 <section>

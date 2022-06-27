@@ -1,6 +1,6 @@
 ---
 title: Malý pobuda
-contentType: prose
+contentType: poetry
 ---
 
 <section>

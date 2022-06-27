@@ -1,6 +1,6 @@
 ---
 title: Francouzská revoluce
-contentType: prose
+contentType: poetry
 ---
 
 <section>

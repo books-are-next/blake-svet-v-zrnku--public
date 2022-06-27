@@ -1,6 +1,6 @@
 ---
 title: Svůdcové lidstva
-contentType: prose
+contentType: poetry
 ---
 
 <section>

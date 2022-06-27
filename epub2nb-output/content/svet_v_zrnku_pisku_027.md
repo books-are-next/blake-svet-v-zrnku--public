@@ -1,6 +1,6 @@
 ---
 title: Slunečnice
-contentType: prose
+contentType: poetry
 ---
 
 <section>

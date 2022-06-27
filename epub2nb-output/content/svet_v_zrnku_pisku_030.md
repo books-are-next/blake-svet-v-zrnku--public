@@ -1,6 +1,6 @@
 ---
 title: Londýn
-contentType: prose
+contentType: poetry
 ---
 
 <section>

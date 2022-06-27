@@ -1,6 +1,6 @@
 ---
 title: Zkušenost
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: BÁSNICKÉ ČRTY
-contentType: prose
+contentType: poetry
 ---
 
 

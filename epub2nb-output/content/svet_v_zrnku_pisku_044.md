@@ -1,6 +1,6 @@
 ---
 title: Ve stínu myrty
-contentType: prose
+contentType: poetry
 ---
 
 <section>

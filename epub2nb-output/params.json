@@ -1,11 +1,15 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Svět v zrnku písku",
       "identifier": "8e73de09-b542-49f8-84d4-002ad05e4ad2",
       "author": "William Blake",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2018-04-24T00:00:00.000Z"
+      "modified": "2018-04-24T00:00:00.000Z",
+      "publisherShort": "mkp",
+      "edition": "poezie",
+      "contentType": "poetry"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -20,62 +24,67 @@
       "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
-      "centered": ".*uprostred.*",
       "figure": "MLP.obrazky.*\nmlpobrazky",
       "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
-      "verse": "MLP.verse.*",
       "remove": "",
-      "ignore": ""
+      "ignore": "",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*"
     },
     "structure": [
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "svet_v_zrnku_pisku_001.md",
             "xhtml": "svet_v_zrnku_pisku_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "svet_v_zrnku_pisku_002.md",
             "xhtml": "svet_v_zrnku_pisku_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "svet_v_zrnku_pisku_003.md",
             "xhtml": "svet_v_zrnku_pisku_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "svet_v_zrnku_pisku_004.md",
             "xhtml": "svet_v_zrnku_pisku_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "svet_v_zrnku_pisku_005.md",
@@ -86,7 +95,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Věnování"
           },
           {
             "filename": "svet_v_zrnku_pisku_006.md",
@@ -97,84 +108,101 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_007.md",
-            "xhtml": "svet_v_zrnku_pisku_007.html",
-            "id": 6,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_008.md",
-            "xhtml": "svet_v_zrnku_pisku_008.html",
-            "id": 7,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_009.md",
-            "xhtml": "svet_v_zrnku_pisku_009.html",
-            "id": 8,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_010.md",
-            "xhtml": "svet_v_zrnku_pisku_010.html",
-            "id": 9,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_011.md",
-            "xhtml": "svet_v_zrnku_pisku_011.html",
-            "id": 10,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_012.md",
-            "xhtml": "svet_v_zrnku_pisku_012.html",
-            "id": 11,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_013.md",
-            "xhtml": "svet_v_zrnku_pisku_013.html",
-            "id": 12,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "svet_v_zrnku_pisku_007.md",
+                "xhtml": "svet_v_zrnku_pisku_007.html",
+                "id": 6,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "K Múzám"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_008.md",
+                "xhtml": "svet_v_zrnku_pisku_008.html",
+                "id": 7,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Šťastně jsem bloudil lukami"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_009.md",
+                "xhtml": "svet_v_zrnku_pisku_009.html",
+                "id": 8,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Ztratil jsem při lásce"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_010.md",
+                "xhtml": "svet_v_zrnku_pisku_010.html",
+                "id": 9,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Láska"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_011.md",
+                "xhtml": "svet_v_zrnku_pisku_011.html",
+                "id": 10,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Miluji něžný zpěv"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_012.md",
+                "xhtml": "svet_v_zrnku_pisku_012.html",
+                "id": 11,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Vzpomínko, ke mně pojď"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_013.md",
+                "xhtml": "svet_v_zrnku_pisku_013.html",
+                "id": 12,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Bláznivý zpěv"
+              }
+            ],
+            "title": "BÁSNICKÉ ČRTY"
           },
           {
             "filename": "svet_v_zrnku_pisku_014.md",
@@ -185,51 +213,62 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_015.md",
-            "xhtml": "svet_v_zrnku_pisku_015.html",
-            "id": 14,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_016.md",
-            "xhtml": "svet_v_zrnku_pisku_016.html",
-            "id": 15,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_017.md",
-            "xhtml": "svet_v_zrnku_pisku_017.html",
-            "id": 16,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_018.md",
-            "xhtml": "svet_v_zrnku_pisku_018.html",
-            "id": 17,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "svet_v_zrnku_pisku_015.md",
+                "xhtml": "svet_v_zrnku_pisku_015.html",
+                "id": 14,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Zpěv o zpěvu"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_016.md",
+                "xhtml": "svet_v_zrnku_pisku_016.html",
+                "id": 15,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Beránek"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_017.md",
+                "xhtml": "svet_v_zrnku_pisku_017.html",
+                "id": 16,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Zpěv smíchu"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_018.md",
+                "xhtml": "svet_v_zrnku_pisku_018.html",
+                "id": 17,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Jaro"
+              }
+            ],
+            "title": "ZPĚVY NEVINNOSTI"
           },
           {
             "filename": "svet_v_zrnku_pisku_019.md",
@@ -240,205 +279,244 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_020.md",
-            "xhtml": "svet_v_zrnku_pisku_020.html",
-            "id": 19,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_021.md",
-            "xhtml": "svet_v_zrnku_pisku_021.html",
-            "id": 20,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_022.md",
-            "xhtml": "svet_v_zrnku_pisku_022.html",
-            "id": 21,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_023.md",
-            "xhtml": "svet_v_zrnku_pisku_023.html",
-            "id": 22,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_024.md",
-            "xhtml": "svet_v_zrnku_pisku_024.html",
-            "id": 23,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_025.md",
-            "xhtml": "svet_v_zrnku_pisku_025.html",
-            "id": 24,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_026.md",
-            "xhtml": "svet_v_zrnku_pisku_026.html",
-            "id": 25,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_027.md",
-            "xhtml": "svet_v_zrnku_pisku_027.html",
-            "id": 26,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_028.md",
-            "xhtml": "svet_v_zrnku_pisku_028.html",
-            "id": 27,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_029.md",
-            "xhtml": "svet_v_zrnku_pisku_029.html",
-            "id": 28,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_030.md",
-            "xhtml": "svet_v_zrnku_pisku_030.html",
-            "id": 29,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_031.md",
-            "xhtml": "svet_v_zrnku_pisku_031.html",
-            "id": 30,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_032.md",
-            "xhtml": "svet_v_zrnku_pisku_032.html",
-            "id": 31,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_033.md",
-            "xhtml": "svet_v_zrnku_pisku_033.html",
-            "id": 32,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_034.md",
-            "xhtml": "svet_v_zrnku_pisku_034.html",
-            "id": 33,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_035.md",
-            "xhtml": "svet_v_zrnku_pisku_035.html",
-            "id": 34,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_036.md",
-            "xhtml": "svet_v_zrnku_pisku_036.html",
-            "id": 35,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_037.md",
-            "xhtml": "svet_v_zrnku_pisku_037.html",
-            "id": 36,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "svet_v_zrnku_pisku_020.md",
+                "xhtml": "svet_v_zrnku_pisku_020.html",
+                "id": 19,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Hrouda a oblázek"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_021.md",
+                "xhtml": "svet_v_zrnku_pisku_021.html",
+                "id": 20,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Svátek Nanebevstoupení"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_022.md",
+                "xhtml": "svet_v_zrnku_pisku_022.html",
+                "id": 21,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kominíček"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_023.md",
+                "xhtml": "svet_v_zrnku_pisku_023.html",
+                "id": 22,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Nemocná růže"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_024.md",
+                "xhtml": "svet_v_zrnku_pisku_024.html",
+                "id": 23,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Moucha"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_025.md",
+                "xhtml": "svet_v_zrnku_pisku_025.html",
+                "id": 24,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Anděl"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_026.md",
+                "xhtml": "svet_v_zrnku_pisku_026.html",
+                "id": 25,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Tygr"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_027.md",
+                "xhtml": "svet_v_zrnku_pisku_027.html",
+                "id": 26,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Slunečnice"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_028.md",
+                "xhtml": "svet_v_zrnku_pisku_028.html",
+                "id": 27,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Zahrada lásky"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_029.md",
+                "xhtml": "svet_v_zrnku_pisku_029.html",
+                "id": 28,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Malý pobuda"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_030.md",
+                "xhtml": "svet_v_zrnku_pisku_030.html",
+                "id": 29,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Londýn"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_031.md",
+                "xhtml": "svet_v_zrnku_pisku_031.html",
+                "id": 30,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Lidský pomysl"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_032.md",
+                "xhtml": "svet_v_zrnku_pisku_032.html",
+                "id": 31,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Žal v plenkách"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_033.md",
+                "xhtml": "svet_v_zrnku_pisku_033.html",
+                "id": 32,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Jedovatý strom"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_034.md",
+                "xhtml": "svet_v_zrnku_pisku_034.html",
+                "id": 33,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Ztracený chlapec"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_035.md",
+                "xhtml": "svet_v_zrnku_pisku_035.html",
+                "id": 34,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Školák"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_036.md",
+                "xhtml": "svet_v_zrnku_pisku_036.html",
+                "id": 35,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Hlas dávného pěvce"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_037.md",
+                "xhtml": "svet_v_zrnku_pisku_037.html",
+                "id": 36,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Obraz boží"
+              }
+            ],
+            "title": "ZPĚVY ZKUŠENOSTI"
           },
           {
             "filename": "svet_v_zrnku_pisku_038.md",
@@ -449,260 +527,309 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_039.md",
-            "xhtml": "svet_v_zrnku_pisku_039.html",
-            "id": 38,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_040.md",
-            "xhtml": "svet_v_zrnku_pisku_040.html",
-            "id": 39,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_041.md",
-            "xhtml": "svet_v_zrnku_pisku_041.html",
-            "id": 40,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_042.md",
-            "xhtml": "svet_v_zrnku_pisku_042.html",
-            "id": 41,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_043.md",
-            "xhtml": "svet_v_zrnku_pisku_043.html",
-            "id": 42,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_044.md",
-            "xhtml": "svet_v_zrnku_pisku_044.html",
-            "id": 43,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_045.md",
-            "xhtml": "svet_v_zrnku_pisku_045.html",
-            "id": 44,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_046.md",
-            "xhtml": "svet_v_zrnku_pisku_046.html",
-            "id": 45,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_047.md",
-            "xhtml": "svet_v_zrnku_pisku_047.html",
-            "id": 46,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_048.md",
-            "xhtml": "svet_v_zrnku_pisku_048.html",
-            "id": 47,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_049.md",
-            "xhtml": "svet_v_zrnku_pisku_049.html",
-            "id": 48,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_050.md",
-            "xhtml": "svet_v_zrnku_pisku_050.html",
-            "id": 49,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_051.md",
-            "xhtml": "svet_v_zrnku_pisku_051.html",
-            "id": 50,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_052.md",
-            "xhtml": "svet_v_zrnku_pisku_052.html",
-            "id": 51,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_053.md",
-            "xhtml": "svet_v_zrnku_pisku_053.html",
-            "id": 52,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_054.md",
-            "xhtml": "svet_v_zrnku_pisku_054.html",
-            "id": 53,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_055.md",
-            "xhtml": "svet_v_zrnku_pisku_055.html",
-            "id": 54,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_056.md",
-            "xhtml": "svet_v_zrnku_pisku_056.html",
-            "id": 55,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_057.md",
-            "xhtml": "svet_v_zrnku_pisku_057.html",
-            "id": 56,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_058.md",
-            "xhtml": "svet_v_zrnku_pisku_058.html",
-            "id": 57,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_059.md",
-            "xhtml": "svet_v_zrnku_pisku_059.html",
-            "id": 58,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_060.md",
-            "xhtml": "svet_v_zrnku_pisku_060.html",
-            "id": 59,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_061.md",
-            "xhtml": "svet_v_zrnku_pisku_061.html",
-            "id": 60,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "svet_v_zrnku_pisku_039.md",
+                "xhtml": "svet_v_zrnku_pisku_039.html",
+                "id": 38,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Nechtěj lásce vyslovit"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_040.md",
+                "xhtml": "svet_v_zrnku_pisku_040.html",
+                "id": 39,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Usnula láska na stráni"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_041.md",
+                "xhtml": "svet_v_zrnku_pisku_041.html",
+                "id": 40,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Viděl jsem kapli ze zlata"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_042.md",
+                "xhtml": "svet_v_zrnku_pisku_042.html",
+                "id": 41,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Andělův zpěv zněl"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_043.md",
+                "xhtml": "svet_v_zrnku_pisku_043.html",
+                "id": 42,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Ukolébavka"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_044.md",
+                "xhtml": "svet_v_zrnku_pisku_044.html",
+                "id": 43,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Ve stínu myrty"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_045.md",
+                "xhtml": "svet_v_zrnku_pisku_045.html",
+                "id": 44,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Noci"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_046.md",
+                "xhtml": "svet_v_zrnku_pisku_046.html",
+                "id": 45,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Otče ne náš"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_047.md",
+                "xhtml": "svet_v_zrnku_pisku_047.html",
+                "id": 46,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Láska k chybám slepá je"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_048.md",
+                "xhtml": "svet_v_zrnku_pisku_048.html",
+                "id": 47,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Hebký sníh"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_049.md",
+                "xhtml": "svet_v_zrnku_pisku_049.html",
+                "id": 48,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Meč a srp"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_050.md",
+                "xhtml": "svet_v_zrnku_pisku_050.html",
+                "id": 49,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Věčnost"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_051.md",
+                "xhtml": "svet_v_zrnku_pisku_051.html",
+                "id": 50,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Otevřte pařížské bordely"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_052.md",
+                "xhtml": "svet_v_zrnku_pisku_052.html",
+                "id": 51,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Duchovní poutník"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_053.md",
+                "xhtml": "svet_v_zrnku_pisku_053.html",
+                "id": 52,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Křišťálová komnata"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_054.md",
+                "xhtml": "svet_v_zrnku_pisku_054.html",
+                "id": 53,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Proroctví nevinnosti"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_055.md",
+                "xhtml": "svet_v_zrnku_pisku_055.html",
+                "id": 54,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Šedivý mnich"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_056.md",
+                "xhtml": "svet_v_zrnku_pisku_056.html",
+                "id": 55,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Dlouhý John Brown a malá Mary Bellová"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_057.md",
+                "xhtml": "svet_v_zrnku_pisku_057.html",
+                "id": 56,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "William Bond"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_058.md",
+                "xhtml": "svet_v_zrnku_pisku_058.html",
+                "id": 57,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Úsměv"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_059.md",
+                "xhtml": "svet_v_zrnku_pisku_059.html",
+                "id": 58,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Zlatá síť"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_060.md",
+                "xhtml": "svet_v_zrnku_pisku_060.html",
+                "id": 59,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Mary"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_061.md",
+                "xhtml": "svet_v_zrnku_pisku_061.html",
+                "id": 60,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Žalobníkovi, jenž je bohem tohoto světa"
+              }
+            ],
+            "title": "MIMO SBÍRKY"
           },
           {
             "filename": "svet_v_zrnku_pisku_062.md",
@@ -713,18 +840,22 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_063.md",
-            "xhtml": "svet_v_zrnku_pisku_063.html",
-            "id": 62,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "svet_v_zrnku_pisku_063.md",
+                "xhtml": "svet_v_zrnku_pisku_063.html",
+                "id": 62,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              }
+            ],
+            "title": "KNIHA THEL"
           },
           {
             "filename": "svet_v_zrnku_pisku_064.md",
@@ -735,29 +866,36 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_065.md",
-            "xhtml": "svet_v_zrnku_pisku_065.html",
-            "id": 64,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_066.md",
-            "xhtml": "svet_v_zrnku_pisku_066.html",
-            "id": 65,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "svet_v_zrnku_pisku_065.md",
+                "xhtml": "svet_v_zrnku_pisku_065.html",
+                "id": 64,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Francouzská revoluce"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_066.md",
+                "xhtml": "svet_v_zrnku_pisku_066.html",
+                "id": 65,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Bastila"
+              }
+            ],
+            "title": "FRANCOUZSKÁ REVOLUCE"
           },
           {
             "filename": "svet_v_zrnku_pisku_067.md",
@@ -768,29 +906,36 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_068.md",
-            "xhtml": "svet_v_zrnku_pisku_068.html",
-            "id": 67,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_069.md",
-            "xhtml": "svet_v_zrnku_pisku_069.html",
-            "id": 68,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "svet_v_zrnku_pisku_068.md",
+                "xhtml": "svet_v_zrnku_pisku_068.html",
+                "id": 67,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Otázky"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_069.md",
+                "xhtml": "svet_v_zrnku_pisku_069.html",
+                "id": 68,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Nesrovnalosti"
+              }
+            ],
+            "title": "VIDĚNÍ DCER ALBIONU"
           },
           {
             "filename": "svet_v_zrnku_pisku_070.md",
@@ -801,18 +946,23 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_071.md",
-            "xhtml": "svet_v_zrnku_pisku_071.html",
-            "id": 70,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "svet_v_zrnku_pisku_071.md",
+                "xhtml": "svet_v_zrnku_pisku_071.html",
+                "id": 70,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Proroctví Ameriky"
+              }
+            ],
+            "title": "AMERIKA"
           },
           {
             "filename": "svet_v_zrnku_pisku_072.md",
@@ -823,18 +973,23 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_073.md",
-            "xhtml": "svet_v_zrnku_pisku_073.html",
-            "id": 72,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "svet_v_zrnku_pisku_073.md",
+                "xhtml": "svet_v_zrnku_pisku_073.html",
+                "id": 72,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Žalář Evropy"
+              }
+            ],
+            "title": "EVROPA"
           },
           {
             "filename": "svet_v_zrnku_pisku_074.md",
@@ -845,18 +1000,23 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_075.md",
-            "xhtml": "svet_v_zrnku_pisku_075.html",
-            "id": 74,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "svet_v_zrnku_pisku_075.md",
+                "xhtml": "svet_v_zrnku_pisku_075.html",
+                "id": 74,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Svůdcové lidstva"
+              }
+            ],
+            "title": "ZPĚV LOSŮV"
           },
           {
             "filename": "svet_v_zrnku_pisku_076.md",
@@ -867,51 +1027,62 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_077.md",
-            "xhtml": "svet_v_zrnku_pisku_077.html",
-            "id": 76,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_078.md",
-            "xhtml": "svet_v_zrnku_pisku_078.html",
-            "id": 77,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_079.md",
-            "xhtml": "svet_v_zrnku_pisku_079.html",
-            "id": 78,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_080.md",
-            "xhtml": "svet_v_zrnku_pisku_080.html",
-            "id": 79,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "svet_v_zrnku_pisku_077.md",
+                "xhtml": "svet_v_zrnku_pisku_077.html",
+                "id": 76,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Zkušenost"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_078.md",
+                "xhtml": "svet_v_zrnku_pisku_078.html",
+                "id": 77,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Vykořisťování"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_079.md",
+                "xhtml": "svet_v_zrnku_pisku_079.html",
+                "id": 78,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Urizenovi synové"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_080.md",
+                "xhtml": "svet_v_zrnku_pisku_080.html",
+                "id": 79,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Pukající svět"
+              }
+            ],
+            "title": "VALA ANEB ČTYŘI ZOY"
           },
           {
             "filename": "svet_v_zrnku_pisku_081.md",
@@ -922,29 +1093,36 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_082.md",
-            "xhtml": "svet_v_zrnku_pisku_082.html",
-            "id": 81,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_083.md",
-            "xhtml": "svet_v_zrnku_pisku_083.html",
-            "id": 82,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "svet_v_zrnku_pisku_082.md",
+                "xhtml": "svet_v_zrnku_pisku_082.html",
+                "id": 81,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Jeruzalém"
+              },
+              {
+                "filename": "svet_v_zrnku_pisku_083.md",
+                "xhtml": "svet_v_zrnku_pisku_083.html",
+                "id": 82,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Milton"
+              }
+            ],
+            "title": "MILTON"
           },
           {
             "filename": "svet_v_zrnku_pisku_084.md",
@@ -955,18 +1133,23 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_085.md",
-            "xhtml": "svet_v_zrnku_pisku_085.html",
-            "id": 84,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "svet_v_zrnku_pisku_085.md",
+                "xhtml": "svet_v_zrnku_pisku_085.html",
+                "id": 84,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Pravda v maličkostech"
+              }
+            ],
+            "title": "JERUZALÉM"
           },
           {
             "filename": "svet_v_zrnku_pisku_086.md",
@@ -977,29 +1160,35 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "svet_v_zrnku_pisku_087.md",
-            "xhtml": "svet_v_zrnku_pisku_087.html",
-            "id": 86,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "svet_v_zrnku_pisku_087.md",
+                "xhtml": "svet_v_zrnku_pisku_087.html",
+                "id": 86,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Pekelná přísloví"
+              }
+            ],
+            "title": "SŇATEK NEBE S PEKLEM"
           },
           {
             "filename": "svet_v_zrnku_pisku_088.md",
             "xhtml": "svet_v_zrnku_pisku_088.html",
             "id": 87,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -1663,6 +1852,6 @@
       "user": "books-are-next",
       "repo": "blake-svet-v-zrnku-pisku"
     },
-    "generatedAt": 1654948109427
+    "generatedAt": 1656324458541
   }
 }

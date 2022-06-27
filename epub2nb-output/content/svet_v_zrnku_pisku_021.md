@@ -1,6 +1,6 @@
 ---
 title: Svátek Nanebevstoupení
-contentType: prose
+contentType: poetry
 ---
 
 <section>

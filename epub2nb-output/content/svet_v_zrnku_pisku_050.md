@@ -1,6 +1,6 @@
 ---
 title: Věčnost
-contentType: prose
+contentType: poetry
 ---
 
 <section>

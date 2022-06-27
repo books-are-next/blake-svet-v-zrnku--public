@@ -1,6 +1,6 @@
 ---
 title: Bastila
-contentType: prose
+contentType: poetry
 ---
 
 <section>

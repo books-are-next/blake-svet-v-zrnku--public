@@ -1,6 +1,6 @@
 ---
 title: Mary
-contentType: prose
+contentType: poetry
 ---
 
 <section>

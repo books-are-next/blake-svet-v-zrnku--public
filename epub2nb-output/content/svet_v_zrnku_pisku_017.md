@@ -1,6 +1,6 @@
 ---
 title: Zpěv smíchu
-contentType: prose
+contentType: poetry
 ---
 
 <section>

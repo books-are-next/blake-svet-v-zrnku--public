@@ -1,6 +1,6 @@
 ---
 title: ZPĚVY ZKUŠENOSTI
-contentType: prose
+contentType: poetry
 ---
 
 

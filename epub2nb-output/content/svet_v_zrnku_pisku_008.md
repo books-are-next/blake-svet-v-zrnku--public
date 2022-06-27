@@ -1,6 +1,6 @@
 ---
 title: Šťastně jsem bloudil lukami
-contentType: prose
+contentType: poetry
 ---
 
 <section>

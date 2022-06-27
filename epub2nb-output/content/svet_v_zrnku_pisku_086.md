@@ -1,6 +1,6 @@
 ---
 title: SŇATEK NEBE S PEKLEM
-contentType: prose
+contentType: poetry
 ---
 
 

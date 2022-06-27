@@ -1,6 +1,6 @@
 ---
 title: Urizenovi synové
-contentType: prose
+contentType: poetry
 ---
 
 <section>

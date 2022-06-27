@@ -1,6 +1,6 @@
 ---
 title: AMERIKA
-contentType: prose
+contentType: poetry
 ---
 
 

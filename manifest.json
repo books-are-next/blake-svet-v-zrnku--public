@@ -1,0 +1,1839 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Svět v zrnku písku",
+  "author": "William Blake",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "blake-svet-v-zrnku-pisku-a0e4527",
+  "revision": "a0e4527",
+  "readingOrder": [
+    "promo.html",
+    "svet_v_zrnku_pisku_005.html",
+    "svet_v_zrnku_pisku_006.html",
+    "svet_v_zrnku_pisku_007.html",
+    "svet_v_zrnku_pisku_008.html",
+    "svet_v_zrnku_pisku_009.html",
+    "svet_v_zrnku_pisku_010.html",
+    "svet_v_zrnku_pisku_011.html",
+    "svet_v_zrnku_pisku_012.html",
+    "svet_v_zrnku_pisku_013.html",
+    "svet_v_zrnku_pisku_014.html",
+    "svet_v_zrnku_pisku_015.html",
+    "svet_v_zrnku_pisku_016.html",
+    "svet_v_zrnku_pisku_017.html",
+    "svet_v_zrnku_pisku_018.html",
+    "svet_v_zrnku_pisku_019.html",
+    "svet_v_zrnku_pisku_020.html",
+    "svet_v_zrnku_pisku_021.html",
+    "svet_v_zrnku_pisku_022.html",
+    "svet_v_zrnku_pisku_023.html",
+    "svet_v_zrnku_pisku_024.html",
+    "svet_v_zrnku_pisku_025.html",
+    "svet_v_zrnku_pisku_026.html",
+    "svet_v_zrnku_pisku_027.html",
+    "svet_v_zrnku_pisku_028.html",
+    "svet_v_zrnku_pisku_029.html",
+    "svet_v_zrnku_pisku_030.html",
+    "svet_v_zrnku_pisku_031.html",
+    "svet_v_zrnku_pisku_032.html",
+    "svet_v_zrnku_pisku_033.html",
+    "svet_v_zrnku_pisku_034.html",
+    "svet_v_zrnku_pisku_035.html",
+    "svet_v_zrnku_pisku_036.html",
+    "svet_v_zrnku_pisku_037.html",
+    "svet_v_zrnku_pisku_038.html",
+    "svet_v_zrnku_pisku_039.html",
+    "svet_v_zrnku_pisku_040.html",
+    "svet_v_zrnku_pisku_041.html",
+    "svet_v_zrnku_pisku_042.html",
+    "svet_v_zrnku_pisku_043.html",
+    "svet_v_zrnku_pisku_044.html",
+    "svet_v_zrnku_pisku_045.html",
+    "svet_v_zrnku_pisku_046.html",
+    "svet_v_zrnku_pisku_047.html",
+    "svet_v_zrnku_pisku_048.html",
+    "svet_v_zrnku_pisku_049.html",
+    "svet_v_zrnku_pisku_050.html",
+    "svet_v_zrnku_pisku_051.html",
+    "svet_v_zrnku_pisku_052.html",
+    "svet_v_zrnku_pisku_053.html",
+    "svet_v_zrnku_pisku_054.html",
+    "svet_v_zrnku_pisku_055.html",
+    "svet_v_zrnku_pisku_056.html",
+    "svet_v_zrnku_pisku_057.html",
+    "svet_v_zrnku_pisku_058.html",
+    "svet_v_zrnku_pisku_059.html",
+    "svet_v_zrnku_pisku_060.html",
+    "svet_v_zrnku_pisku_061.html",
+    "svet_v_zrnku_pisku_062.html",
+    "svet_v_zrnku_pisku_063.html",
+    "svet_v_zrnku_pisku_064.html",
+    "svet_v_zrnku_pisku_065.html",
+    "svet_v_zrnku_pisku_066.html",
+    "svet_v_zrnku_pisku_067.html",
+    "svet_v_zrnku_pisku_068.html",
+    "svet_v_zrnku_pisku_069.html",
+    "svet_v_zrnku_pisku_070.html",
+    "svet_v_zrnku_pisku_071.html",
+    "svet_v_zrnku_pisku_072.html",
+    "svet_v_zrnku_pisku_073.html",
+    "svet_v_zrnku_pisku_074.html",
+    "svet_v_zrnku_pisku_075.html",
+    "svet_v_zrnku_pisku_076.html",
+    "svet_v_zrnku_pisku_077.html",
+    "svet_v_zrnku_pisku_078.html",
+    "svet_v_zrnku_pisku_079.html",
+    "svet_v_zrnku_pisku_080.html",
+    "svet_v_zrnku_pisku_081.html",
+    "svet_v_zrnku_pisku_082.html",
+    "svet_v_zrnku_pisku_083.html",
+    "svet_v_zrnku_pisku_084.html",
+    "svet_v_zrnku_pisku_085.html",
+    "svet_v_zrnku_pisku_086.html",
+    "svet_v_zrnku_pisku_087.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Mon Jun 27 2022 10:09:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1656324553836
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "svet_v_zrnku_pisku_005.html",
+      "toc": []
+    },
+    {
+      "title": "Svět v zrnku písku",
+      "file": "svet_v_zrnku_pisku_005.html",
+      "words": 12,
+      "chars": 57,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "svet_v_zrnku_pisku_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "BÁSNICKÉ ČRTY",
+      "file": "svet_v_zrnku_pisku_006.html",
+      "words": 2,
+      "chars": 13,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "svet_v_zrnku_pisku_005.html",
+      "next": "svet_v_zrnku_pisku_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "BÁSNICKÉ ČRTY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "K Múzám",
+      "file": "svet_v_zrnku_pisku_007.html",
+      "words": 76,
+      "chars": 426,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 3,
+      "prev": "svet_v_zrnku_pisku_006.html",
+      "next": "svet_v_zrnku_pisku_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "K Múzám",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Šťastně jsem bloudil lukami",
+      "file": "svet_v_zrnku_pisku_008.html",
+      "words": 81,
+      "chars": 433,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 4,
+      "prev": "svet_v_zrnku_pisku_007.html",
+      "next": "svet_v_zrnku_pisku_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Šťastně jsem bloudil lukami",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ztratil jsem při lásce",
+      "file": "svet_v_zrnku_pisku_009.html",
+      "words": 76,
+      "chars": 394,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 5,
+      "prev": "svet_v_zrnku_pisku_008.html",
+      "next": "svet_v_zrnku_pisku_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ztratil jsem při lásce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Láska",
+      "file": "svet_v_zrnku_pisku_010.html",
+      "words": 83,
+      "chars": 448,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 6,
+      "prev": "svet_v_zrnku_pisku_009.html",
+      "next": "svet_v_zrnku_pisku_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Láska",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Miluji něžný zpěv",
+      "file": "svet_v_zrnku_pisku_011.html",
+      "words": 70,
+      "chars": 380,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 7,
+      "prev": "svet_v_zrnku_pisku_010.html",
+      "next": "svet_v_zrnku_pisku_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Miluji něžný zpěv",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínko, ke mně pojď",
+      "file": "svet_v_zrnku_pisku_012.html",
+      "words": 62,
+      "chars": 325,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 8,
+      "prev": "svet_v_zrnku_pisku_011.html",
+      "next": "svet_v_zrnku_pisku_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vzpomínko, ke mně pojď",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bláznivý zpěv",
+      "file": "svet_v_zrnku_pisku_013.html",
+      "words": 74,
+      "chars": 392,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 9,
+      "prev": "svet_v_zrnku_pisku_012.html",
+      "next": "svet_v_zrnku_pisku_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bláznivý zpěv",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ZPĚVY NEVINNOSTI",
+      "file": "svet_v_zrnku_pisku_014.html",
+      "words": 2,
+      "chars": 16,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 10,
+      "prev": "svet_v_zrnku_pisku_013.html",
+      "next": "svet_v_zrnku_pisku_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚVY NEVINNOSTI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěv o zpěvu",
+      "file": "svet_v_zrnku_pisku_015.html",
+      "words": 79,
+      "chars": 475,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 11,
+      "prev": "svet_v_zrnku_pisku_014.html",
+      "next": "svet_v_zrnku_pisku_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zpěv o zpěvu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Beránek",
+      "file": "svet_v_zrnku_pisku_016.html",
+      "words": 88,
+      "chars": 504,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 12,
+      "prev": "svet_v_zrnku_pisku_015.html",
+      "next": "svet_v_zrnku_pisku_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Beránek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěv smíchu",
+      "file": "svet_v_zrnku_pisku_017.html",
+      "words": 74,
+      "chars": 404,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 13,
+      "prev": "svet_v_zrnku_pisku_016.html",
+      "next": "svet_v_zrnku_pisku_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zpěv smíchu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jaro",
+      "file": "svet_v_zrnku_pisku_018.html",
+      "words": 52,
+      "chars": 302,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 14,
+      "prev": "svet_v_zrnku_pisku_017.html",
+      "next": "svet_v_zrnku_pisku_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jaro",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ZPĚVY ZKUŠENOSTI",
+      "file": "svet_v_zrnku_pisku_019.html",
+      "words": 2,
+      "chars": 16,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 15,
+      "prev": "svet_v_zrnku_pisku_018.html",
+      "next": "svet_v_zrnku_pisku_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚVY ZKUŠENOSTI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hrouda a oblázek",
+      "file": "svet_v_zrnku_pisku_020.html",
+      "words": 69,
+      "chars": 379,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 16,
+      "prev": "svet_v_zrnku_pisku_019.html",
+      "next": "svet_v_zrnku_pisku_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hrouda a oblázek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svátek Nanebevstoupení",
+      "file": "svet_v_zrnku_pisku_021.html",
+      "words": 66,
+      "chars": 373,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 17,
+      "prev": "svet_v_zrnku_pisku_020.html",
+      "next": "svet_v_zrnku_pisku_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Svátek Nanebevstoupení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kominíček",
+      "file": "svet_v_zrnku_pisku_022.html",
+      "words": 62,
+      "chars": 316,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 18,
+      "prev": "svet_v_zrnku_pisku_021.html",
+      "next": "svet_v_zrnku_pisku_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kominíček",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nemocná růže",
+      "file": "svet_v_zrnku_pisku_023.html",
+      "words": 26,
+      "chars": 154,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 19,
+      "prev": "svet_v_zrnku_pisku_022.html",
+      "next": "svet_v_zrnku_pisku_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nemocná růže",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Moucha",
+      "file": "svet_v_zrnku_pisku_024.html",
+      "words": 60,
+      "chars": 320,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 20,
+      "prev": "svet_v_zrnku_pisku_023.html",
+      "next": "svet_v_zrnku_pisku_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Moucha",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Anděl",
+      "file": "svet_v_zrnku_pisku_025.html",
+      "words": 77,
+      "chars": 420,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 21,
+      "prev": "svet_v_zrnku_pisku_024.html",
+      "next": "svet_v_zrnku_pisku_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Anděl",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tygr",
+      "file": "svet_v_zrnku_pisku_026.html",
+      "words": 113,
+      "chars": 595,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 22,
+      "prev": "svet_v_zrnku_pisku_025.html",
+      "next": "svet_v_zrnku_pisku_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tygr",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slunečnice",
+      "file": "svet_v_zrnku_pisku_027.html",
+      "words": 38,
+      "chars": 241,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 23,
+      "prev": "svet_v_zrnku_pisku_026.html",
+      "next": "svet_v_zrnku_pisku_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slunečnice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zahrada lásky",
+      "file": "svet_v_zrnku_pisku_028.html",
+      "words": 61,
+      "chars": 341,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 24,
+      "prev": "svet_v_zrnku_pisku_027.html",
+      "next": "svet_v_zrnku_pisku_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zahrada lásky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Malý pobuda",
+      "file": "svet_v_zrnku_pisku_029.html",
+      "words": 108,
+      "chars": 569,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 25,
+      "prev": "svet_v_zrnku_pisku_028.html",
+      "next": "svet_v_zrnku_pisku_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Malý pobuda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Londýn",
+      "file": "svet_v_zrnku_pisku_030.html",
+      "words": 77,
+      "chars": 417,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 26,
+      "prev": "svet_v_zrnku_pisku_029.html",
+      "next": "svet_v_zrnku_pisku_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Londýn",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lidský pomysl",
+      "file": "svet_v_zrnku_pisku_031.html",
+      "words": 104,
+      "chars": 598,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 27,
+      "prev": "svet_v_zrnku_pisku_030.html",
+      "next": "svet_v_zrnku_pisku_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lidský pomysl",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žal v plenkách",
+      "file": "svet_v_zrnku_pisku_032.html",
+      "words": 117,
+      "chars": 642,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 28,
+      "prev": "svet_v_zrnku_pisku_031.html",
+      "next": "svet_v_zrnku_pisku_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žal v plenkách",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jedovatý strom",
+      "file": "svet_v_zrnku_pisku_033.html",
+      "words": 79,
+      "chars": 393,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 29,
+      "prev": "svet_v_zrnku_pisku_032.html",
+      "next": "svet_v_zrnku_pisku_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jedovatý strom",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ztracený chlapec",
+      "file": "svet_v_zrnku_pisku_034.html",
+      "words": 103,
+      "chars": 588,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 30,
+      "prev": "svet_v_zrnku_pisku_033.html",
+      "next": "svet_v_zrnku_pisku_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ztracený chlapec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Školák",
+      "file": "svet_v_zrnku_pisku_035.html",
+      "words": 137,
+      "chars": 751,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 31,
+      "prev": "svet_v_zrnku_pisku_034.html",
+      "next": "svet_v_zrnku_pisku_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Školák",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hlas dávného pěvce",
+      "file": "svet_v_zrnku_pisku_036.html",
+      "words": 59,
+      "chars": 339,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 32,
+      "prev": "svet_v_zrnku_pisku_035.html",
+      "next": "svet_v_zrnku_pisku_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hlas dávného pěvce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obraz boží",
+      "file": "svet_v_zrnku_pisku_037.html",
+      "words": 38,
+      "chars": 216,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 33,
+      "prev": "svet_v_zrnku_pisku_036.html",
+      "next": "svet_v_zrnku_pisku_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obraz boží",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MIMO SBÍRKY",
+      "file": "svet_v_zrnku_pisku_038.html",
+      "words": 2,
+      "chars": 11,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 34,
+      "prev": "svet_v_zrnku_pisku_037.html",
+      "next": "svet_v_zrnku_pisku_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MIMO SBÍRKY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nechtěj lásce vyslovit",
+      "file": "svet_v_zrnku_pisku_039.html",
+      "words": 44,
+      "chars": 260,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 35,
+      "prev": "svet_v_zrnku_pisku_038.html",
+      "next": "svet_v_zrnku_pisku_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nechtěj lásce vyslovit",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Usnula láska na stráni",
+      "file": "svet_v_zrnku_pisku_040.html",
+      "words": 40,
+      "chars": 208,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 36,
+      "prev": "svet_v_zrnku_pisku_039.html",
+      "next": "svet_v_zrnku_pisku_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Usnula láska na stráni",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Viděl jsem kapli ze zlata",
+      "file": "svet_v_zrnku_pisku_041.html",
+      "words": 87,
+      "chars": 446,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 37,
+      "prev": "svet_v_zrnku_pisku_040.html",
+      "next": "svet_v_zrnku_pisku_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Viděl jsem kapli ze zlata",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Andělův zpěv zněl",
+      "file": "svet_v_zrnku_pisku_042.html",
+      "words": 68,
+      "chars": 372,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 38,
+      "prev": "svet_v_zrnku_pisku_041.html",
+      "next": "svet_v_zrnku_pisku_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Andělův zpěv zněl",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ukolébavka",
+      "file": "svet_v_zrnku_pisku_043.html",
+      "words": 87,
+      "chars": 484,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 39,
+      "prev": "svet_v_zrnku_pisku_042.html",
+      "next": "svet_v_zrnku_pisku_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ukolébavka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ve stínu myrty",
+      "file": "svet_v_zrnku_pisku_044.html",
+      "words": 67,
+      "chars": 362,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 40,
+      "prev": "svet_v_zrnku_pisku_043.html",
+      "next": "svet_v_zrnku_pisku_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ve stínu myrty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Noci",
+      "file": "svet_v_zrnku_pisku_045.html",
+      "words": 33,
+      "chars": 189,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 41,
+      "prev": "svet_v_zrnku_pisku_044.html",
+      "next": "svet_v_zrnku_pisku_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Noci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Otče ne náš",
+      "file": "svet_v_zrnku_pisku_046.html",
+      "words": 40,
+      "chars": 224,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 42,
+      "prev": "svet_v_zrnku_pisku_045.html",
+      "next": "svet_v_zrnku_pisku_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Otče ne náš",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Láska k chybám slepá je",
+      "file": "svet_v_zrnku_pisku_047.html",
+      "words": 37,
+      "chars": 187,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 43,
+      "prev": "svet_v_zrnku_pisku_046.html",
+      "next": "svet_v_zrnku_pisku_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Láska k chybám slepá je",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hebký sníh",
+      "file": "svet_v_zrnku_pisku_048.html",
+      "words": 25,
+      "chars": 136,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 44,
+      "prev": "svet_v_zrnku_pisku_047.html",
+      "next": "svet_v_zrnku_pisku_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hebký sníh",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Meč a srp",
+      "file": "svet_v_zrnku_pisku_049.html",
+      "words": 20,
+      "chars": 109,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 45,
+      "prev": "svet_v_zrnku_pisku_048.html",
+      "next": "svet_v_zrnku_pisku_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Meč a srp",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Věčnost",
+      "file": "svet_v_zrnku_pisku_050.html",
+      "words": 18,
+      "chars": 98,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 46,
+      "prev": "svet_v_zrnku_pisku_049.html",
+      "next": "svet_v_zrnku_pisku_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Věčnost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Otevřte pařížské bordely",
+      "file": "svet_v_zrnku_pisku_051.html",
+      "words": 255,
+      "chars": 1435,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 47,
+      "prev": "svet_v_zrnku_pisku_050.html",
+      "next": "svet_v_zrnku_pisku_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Otevřte pařížské bordely",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Duchovní poutník",
+      "file": "svet_v_zrnku_pisku_052.html",
+      "words": 477,
+      "chars": 2581,
+      "ideas": 105,
+      "role": "chapter",
+      "order": 48,
+      "prev": "svet_v_zrnku_pisku_051.html",
+      "next": "svet_v_zrnku_pisku_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Duchovní poutník",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Křišťálová komnata",
+      "file": "svet_v_zrnku_pisku_053.html",
+      "words": 127,
+      "chars": 721,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 49,
+      "prev": "svet_v_zrnku_pisku_052.html",
+      "next": "svet_v_zrnku_pisku_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Křišťálová komnata",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Proroctví nevinnosti",
+      "file": "svet_v_zrnku_pisku_054.html",
+      "words": 592,
+      "chars": 3284,
+      "ideas": 133,
+      "role": "chapter",
+      "order": 50,
+      "prev": "svet_v_zrnku_pisku_053.html",
+      "next": "svet_v_zrnku_pisku_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Proroctví nevinnosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Šedivý mnich",
+      "file": "svet_v_zrnku_pisku_055.html",
+      "words": 170,
+      "chars": 939,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 51,
+      "prev": "svet_v_zrnku_pisku_054.html",
+      "next": "svet_v_zrnku_pisku_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Šedivý mnich",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dlouhý John Brown a malá Mary Bellová",
+      "file": "svet_v_zrnku_pisku_056.html",
+      "words": 153,
+      "chars": 855,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 52,
+      "prev": "svet_v_zrnku_pisku_055.html",
+      "next": "svet_v_zrnku_pisku_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dlouhý John Brown a malá Mary Bellová",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "William Bond",
+      "file": "svet_v_zrnku_pisku_057.html",
+      "words": 302,
+      "chars": 1674,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 53,
+      "prev": "svet_v_zrnku_pisku_056.html",
+      "next": "svet_v_zrnku_pisku_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "William Bond",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Úsměv",
+      "file": "svet_v_zrnku_pisku_058.html",
+      "words": 74,
+      "chars": 374,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 54,
+      "prev": "svet_v_zrnku_pisku_057.html",
+      "next": "svet_v_zrnku_pisku_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Úsměv",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zlatá síť",
+      "file": "svet_v_zrnku_pisku_059.html",
+      "words": 128,
+      "chars": 696,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 55,
+      "prev": "svet_v_zrnku_pisku_058.html",
+      "next": "svet_v_zrnku_pisku_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zlatá síť",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mary",
+      "file": "svet_v_zrnku_pisku_060.html",
+      "words": 273,
+      "chars": 1529,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 56,
+      "prev": "svet_v_zrnku_pisku_059.html",
+      "next": "svet_v_zrnku_pisku_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mary",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žalobníkovi, jenž je bohem tohoto světa",
+      "file": "svet_v_zrnku_pisku_061.html",
+      "words": 48,
+      "chars": 287,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 57,
+      "prev": "svet_v_zrnku_pisku_060.html",
+      "next": "svet_v_zrnku_pisku_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žalobníkovi, jenž je bohem tohoto světa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KNIHA THEL",
+      "file": "svet_v_zrnku_pisku_062.html",
+      "words": 2,
+      "chars": 10,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 58,
+      "prev": "svet_v_zrnku_pisku_061.html",
+      "next": "svet_v_zrnku_pisku_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA THEL",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svět v zrnku písku",
+      "file": "svet_v_zrnku_pisku_063.html",
+      "words": 975,
+      "chars": 5688,
+      "ideas": 134,
+      "role": "chapter",
+      "order": 59,
+      "prev": "svet_v_zrnku_pisku_062.html",
+      "next": "svet_v_zrnku_pisku_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III",
+              "id": "iii",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV",
+              "id": "iv",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "FRANCOUZSKÁ REVOLUCE",
+      "file": "svet_v_zrnku_pisku_064.html",
+      "words": 2,
+      "chars": 20,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 60,
+      "prev": "svet_v_zrnku_pisku_063.html",
+      "next": "svet_v_zrnku_pisku_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "FRANCOUZSKÁ REVOLUCE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Francouzská revoluce",
+      "file": "svet_v_zrnku_pisku_065.html",
+      "words": 164,
+      "chars": 1038,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 61,
+      "prev": "svet_v_zrnku_pisku_064.html",
+      "next": "svet_v_zrnku_pisku_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Francouzská revoluce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bastila",
+      "file": "svet_v_zrnku_pisku_066.html",
+      "words": 109,
+      "chars": 627,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 62,
+      "prev": "svet_v_zrnku_pisku_065.html",
+      "next": "svet_v_zrnku_pisku_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bastila",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIDĚNÍ DCER ALBIONU",
+      "file": "svet_v_zrnku_pisku_067.html",
+      "words": 3,
+      "chars": 19,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 63,
+      "prev": "svet_v_zrnku_pisku_066.html",
+      "next": "svet_v_zrnku_pisku_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIDĚNÍ DCER ALBIONU",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Otázky",
+      "file": "svet_v_zrnku_pisku_068.html",
+      "words": 121,
+      "chars": 701,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 64,
+      "prev": "svet_v_zrnku_pisku_067.html",
+      "next": "svet_v_zrnku_pisku_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Otázky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nesrovnalosti",
+      "file": "svet_v_zrnku_pisku_069.html",
+      "words": 185,
+      "chars": 1032,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 65,
+      "prev": "svet_v_zrnku_pisku_068.html",
+      "next": "svet_v_zrnku_pisku_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nesrovnalosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "AMERIKA",
+      "file": "svet_v_zrnku_pisku_070.html",
+      "words": 1,
+      "chars": 7,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 66,
+      "prev": "svet_v_zrnku_pisku_069.html",
+      "next": "svet_v_zrnku_pisku_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "AMERIKA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Proroctví Ameriky",
+      "file": "svet_v_zrnku_pisku_071.html",
+      "words": 216,
+      "chars": 1308,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 67,
+      "prev": "svet_v_zrnku_pisku_070.html",
+      "next": "svet_v_zrnku_pisku_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Proroctví Ameriky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "EVROPA",
+      "file": "svet_v_zrnku_pisku_072.html",
+      "words": 1,
+      "chars": 6,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 68,
+      "prev": "svet_v_zrnku_pisku_071.html",
+      "next": "svet_v_zrnku_pisku_073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "EVROPA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žalář Evropy",
+      "file": "svet_v_zrnku_pisku_073.html",
+      "words": 127,
+      "chars": 812,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 69,
+      "prev": "svet_v_zrnku_pisku_072.html",
+      "next": "svet_v_zrnku_pisku_074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žalář Evropy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ZPĚV LOSŮV",
+      "file": "svet_v_zrnku_pisku_074.html",
+      "words": 2,
+      "chars": 10,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 70,
+      "prev": "svet_v_zrnku_pisku_073.html",
+      "next": "svet_v_zrnku_pisku_075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚV LOSŮV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svůdcové lidstva",
+      "file": "svet_v_zrnku_pisku_075.html",
+      "words": 111,
+      "chars": 629,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 71,
+      "prev": "svet_v_zrnku_pisku_074.html",
+      "next": "svet_v_zrnku_pisku_076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Svůdcové lidstva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VALA ANEB ČTYŘI ZOY",
+      "file": "svet_v_zrnku_pisku_076.html",
+      "words": 4,
+      "chars": 19,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 72,
+      "prev": "svet_v_zrnku_pisku_075.html",
+      "next": "svet_v_zrnku_pisku_077.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VALA ANEB ČTYŘI ZOY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zkušenost",
+      "file": "svet_v_zrnku_pisku_077.html",
+      "words": 88,
+      "chars": 490,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 73,
+      "prev": "svet_v_zrnku_pisku_076.html",
+      "next": "svet_v_zrnku_pisku_078.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zkušenost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vykořisťování",
+      "file": "svet_v_zrnku_pisku_078.html",
+      "words": 110,
+      "chars": 630,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 74,
+      "prev": "svet_v_zrnku_pisku_077.html",
+      "next": "svet_v_zrnku_pisku_079.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vykořisťování",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Urizenovi synové",
+      "file": "svet_v_zrnku_pisku_079.html",
+      "words": 122,
+      "chars": 732,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 75,
+      "prev": "svet_v_zrnku_pisku_078.html",
+      "next": "svet_v_zrnku_pisku_080.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Urizenovi synové",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pukající svět",
+      "file": "svet_v_zrnku_pisku_080.html",
+      "words": 202,
+      "chars": 1207,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 76,
+      "prev": "svet_v_zrnku_pisku_079.html",
+      "next": "svet_v_zrnku_pisku_081.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pukající svět",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MILTON",
+      "file": "svet_v_zrnku_pisku_081.html",
+      "words": 1,
+      "chars": 6,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 77,
+      "prev": "svet_v_zrnku_pisku_080.html",
+      "next": "svet_v_zrnku_pisku_082.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MILTON",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jeruzalém",
+      "file": "svet_v_zrnku_pisku_082.html",
+      "words": 71,
+      "chars": 400,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 78,
+      "prev": "svet_v_zrnku_pisku_081.html",
+      "next": "svet_v_zrnku_pisku_083.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jeruzalém",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milton",
+      "file": "svet_v_zrnku_pisku_083.html",
+      "words": 120,
+      "chars": 696,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 79,
+      "prev": "svet_v_zrnku_pisku_082.html",
+      "next": "svet_v_zrnku_pisku_084.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Milton",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "JERUZALÉM",
+      "file": "svet_v_zrnku_pisku_084.html",
+      "words": 1,
+      "chars": 9,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 80,
+      "prev": "svet_v_zrnku_pisku_083.html",
+      "next": "svet_v_zrnku_pisku_085.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JERUZALÉM",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pravda v maličkostech",
+      "file": "svet_v_zrnku_pisku_085.html",
+      "words": 147,
+      "chars": 881,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 81,
+      "prev": "svet_v_zrnku_pisku_084.html",
+      "next": "svet_v_zrnku_pisku_086.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pravda v maličkostech",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "SŇATEK NEBE S PEKLEM",
+      "file": "svet_v_zrnku_pisku_086.html",
+      "words": 4,
+      "chars": 20,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 82,
+      "prev": "svet_v_zrnku_pisku_085.html",
+      "next": "svet_v_zrnku_pisku_087.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "SŇATEK NEBE S PEKLEM",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pekelná přísloví",
+      "file": "svet_v_zrnku_pisku_087.html",
+      "words": 320,
+      "chars": 1914,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 83,
+      "prev": "svet_v_zrnku_pisku_086.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pekelná přísloví",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 136,
+      "chars": 877,
+      "ideas": 16,
+      "role": "colophon",
+      "order": null,
+      "prev": "svet_v_zrnku_pisku_087.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 8747,
+      "chars": 49526,
+      "ideas": 1693
+    },
+    "chapters": {
+      "words": 8603,
+      "chars": 48609,
+      "ideas": 1673
+    }
+  }
+}

@@ -1,6 +1,6 @@
 ---
 title: K Múzám
-contentType: prose
+contentType: poetry
 ---
 
 <section>

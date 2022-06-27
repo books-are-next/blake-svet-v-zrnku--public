@@ -1,6 +1,6 @@
 ---
 title: Pravda v maličkostech
-contentType: prose
+contentType: poetry
 ---
 
 <section>

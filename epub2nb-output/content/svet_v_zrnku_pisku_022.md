@@ -1,6 +1,6 @@
 ---
 title: Kominíček
-contentType: prose
+contentType: poetry
 ---
 
 <section>

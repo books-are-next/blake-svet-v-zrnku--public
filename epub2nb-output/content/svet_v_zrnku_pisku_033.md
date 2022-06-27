@@ -1,6 +1,6 @@
 ---
 title: Jedovatý strom
-contentType: prose
+contentType: poetry
 ---
 
 <section>

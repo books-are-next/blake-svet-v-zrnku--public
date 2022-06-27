@@ -1,6 +1,6 @@
 ---
 title: Viděl jsem kapli ze zlata
-contentType: prose
+contentType: poetry
 ---
 
 <section>

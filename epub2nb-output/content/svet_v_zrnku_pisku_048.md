@@ -1,6 +1,6 @@
 ---
 title: Hebký sníh
-contentType: prose
+contentType: poetry
 ---
 
 <section>

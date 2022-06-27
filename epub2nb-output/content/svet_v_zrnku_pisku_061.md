@@ -1,6 +1,6 @@
 ---
 title: Žalobníkovi, jenž je bohem tohoto světa
-contentType: prose
+contentType: poetry
 ---
 
 <section>

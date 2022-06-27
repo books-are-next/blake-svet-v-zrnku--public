@@ -1,6 +1,6 @@
 ---
 title: Tygr
-contentType: prose
+contentType: poetry
 ---
 
 <section>

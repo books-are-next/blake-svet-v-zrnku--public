@@ -1,6 +1,6 @@
 ---
 title: Zahrada lásky
-contentType: prose
+contentType: poetry
 ---
 
 <section>

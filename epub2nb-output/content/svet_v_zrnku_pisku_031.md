@@ -1,6 +1,6 @@
 ---
 title: Lidský pomysl
-contentType: prose
+contentType: poetry
 ---
 
 <section>

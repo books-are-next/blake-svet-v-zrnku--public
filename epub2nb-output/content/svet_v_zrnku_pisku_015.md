@@ -1,6 +1,6 @@
 ---
 title: Zpěv o zpěvu
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Otevřte pařížské bordely
-contentType: prose
+contentType: poetry
 ---
 
 <section>

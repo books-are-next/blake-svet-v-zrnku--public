@@ -1,6 +1,6 @@
 ---
 title: ZPĚV LOSŮV
-contentType: prose
+contentType: poetry
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Ztratil jsem při lásce
-contentType: prose
+contentType: poetry
 ---
 
 <section>

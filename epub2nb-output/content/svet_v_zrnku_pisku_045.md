@@ -1,6 +1,6 @@
 ---
 title: Noci
-contentType: prose
+contentType: poetry
 ---
 
 <section>

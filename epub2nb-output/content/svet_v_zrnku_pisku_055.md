@@ -1,6 +1,6 @@
 ---
 title: Šedivý mnich
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Obraz boží
-contentType: prose
+contentType: poetry
 ---
 
 <section>

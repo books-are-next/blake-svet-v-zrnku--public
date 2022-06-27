@@ -1,6 +1,6 @@
 ---
 title: William Bond
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Jeruzalém
-contentType: prose
+contentType: poetry
 ---
 
 <section>

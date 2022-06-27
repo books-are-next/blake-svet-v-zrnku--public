@@ -1,6 +1,6 @@
 ---
 title: Beránek
-contentType: prose
+contentType: poetry
 ---
 
 <section>

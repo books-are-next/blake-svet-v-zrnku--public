@@ -1,6 +1,6 @@
 ---
 title: Otče ne náš
-contentType: prose
+contentType: poetry
 ---
 
 <section>
