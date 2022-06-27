@@ -1,6 +1,6 @@
 ---
 title: Školák
-contentType: prose
+contentType: poetry
 ---
 
 <section>

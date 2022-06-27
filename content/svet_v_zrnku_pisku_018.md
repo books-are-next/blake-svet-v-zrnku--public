@@ -1,6 +1,6 @@
 ---
 title: Jaro
-contentType: prose
+contentType: poetry
 ---
 
 <section>

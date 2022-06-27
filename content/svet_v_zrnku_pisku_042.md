@@ -1,6 +1,6 @@
 ---
 title: Andělův zpěv zněl
-contentType: prose
+contentType: poetry
 ---
 
 <section>

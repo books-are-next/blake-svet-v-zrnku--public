@@ -1,6 +1,6 @@
 ---
 title: Usnula láska na stráni
-contentType: prose
+contentType: poetry
 ---
 
 <section>

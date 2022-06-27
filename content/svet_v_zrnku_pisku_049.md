@@ -1,6 +1,6 @@
 ---
 title: Meč a srp
-contentType: prose
+contentType: poetry
 ---
 
 <section>

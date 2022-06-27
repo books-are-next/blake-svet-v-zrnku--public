@@ -1,6 +1,6 @@
 ---
 title: Hlas dávného pěvce
-contentType: prose
+contentType: poetry
 ---
 
 <section>

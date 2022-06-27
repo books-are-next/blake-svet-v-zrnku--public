@@ -1,6 +1,6 @@
 ---
 title: Duchovní poutník
-contentType: prose
+contentType: poetry
 ---
 
 <section>

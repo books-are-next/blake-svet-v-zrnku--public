@@ -1,6 +1,6 @@
 ---
 title: MILTON
-contentType: prose
+contentType: poetry
 ---
 
 

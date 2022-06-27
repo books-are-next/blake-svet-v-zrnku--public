@@ -1,6 +1,6 @@
 ---
 title: Pekelná přísloví
-contentType: prose
+contentType: poetry
 ---
 
 <section>

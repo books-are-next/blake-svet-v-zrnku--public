@@ -1,6 +1,6 @@
 ---
 title: Žal v plenkách
-contentType: prose
+contentType: poetry
 ---
 
 <section>

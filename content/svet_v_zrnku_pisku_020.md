@@ -1,6 +1,6 @@
 ---
 title: Hrouda a oblázek
-contentType: prose
+contentType: poetry
 ---
 
 <section>

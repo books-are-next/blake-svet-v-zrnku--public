@@ -1,6 +1,6 @@
 ---
 title: KNIHA THEL
-contentType: prose
+contentType: poetry
 ---
 
 

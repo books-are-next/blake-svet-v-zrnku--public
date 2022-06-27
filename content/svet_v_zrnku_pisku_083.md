@@ -1,6 +1,6 @@
 ---
 title: Milton
-contentType: prose
+contentType: poetry
 ---
 
 <section>

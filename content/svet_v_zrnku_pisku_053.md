@@ -1,6 +1,6 @@
 ---
 title: Křišťálová komnata
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Pukající svět
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Proroctví nevinnosti
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Láska k chybám slepá je
-contentType: prose
+contentType: poetry
 ---
 
 <section>

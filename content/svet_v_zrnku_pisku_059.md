@@ -1,6 +1,6 @@
 ---
 title: Zlatá síť
-contentType: prose
+contentType: poetry
 ---
 
 <section>

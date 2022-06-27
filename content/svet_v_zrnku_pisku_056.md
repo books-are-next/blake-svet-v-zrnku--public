@@ -1,6 +1,6 @@
 ---
 title: Dlouhý John Brown a malá Mary Bellová
-contentType: prose
+contentType: poetry
 ---
 
 <section>

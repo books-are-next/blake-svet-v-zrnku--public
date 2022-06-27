@@ -1,6 +1,6 @@
 ---
 title: MIMO SBÍRKY
-contentType: prose
+contentType: poetry
 ---
 
 

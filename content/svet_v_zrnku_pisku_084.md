@@ -1,6 +1,6 @@
 ---
 title: JERUZALÉM
-contentType: prose
+contentType: poetry
 ---
 
 

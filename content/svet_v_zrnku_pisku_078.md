@@ -1,6 +1,6 @@
 ---
 title: Vykořisťování
-contentType: prose
+contentType: poetry
 ---
 
 <section>

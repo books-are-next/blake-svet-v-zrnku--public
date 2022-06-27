@@ -1,6 +1,6 @@
 ---
 title: Miluji něžný zpěv
-contentType: prose
+contentType: poetry
 ---
 
 <section>

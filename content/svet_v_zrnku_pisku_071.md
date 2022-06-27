@@ -1,6 +1,6 @@
 ---
 title: Proroctví Ameriky
-contentType: prose
+contentType: poetry
 ---
 
 <section>

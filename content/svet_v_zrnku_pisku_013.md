@@ -1,6 +1,6 @@
 ---
 title: Bláznivý zpěv
-contentType: prose
+contentType: poetry
 ---
 
 <section>

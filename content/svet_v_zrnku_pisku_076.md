@@ -1,6 +1,6 @@
 ---
 title: VALA ANEB ČTYŘI ZOY
-contentType: prose
+contentType: poetry
 ---
 
 

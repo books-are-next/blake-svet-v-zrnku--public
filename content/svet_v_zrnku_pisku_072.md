@@ -1,6 +1,6 @@
 ---
 title: EVROPA
-contentType: prose
+contentType: poetry
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Žalář Evropy
-contentType: prose
+contentType: poetry
 ---
 
 <section>

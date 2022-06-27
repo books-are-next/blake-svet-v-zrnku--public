@@ -1,6 +1,6 @@
 ---
 title: Úsměv
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Nemocná růže
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Anděl
-contentType: prose
+contentType: poetry
 ---
 
 <section>

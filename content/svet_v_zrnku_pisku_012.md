@@ -1,6 +1,6 @@
 ---
 title: Vzpomínko, ke mně pojď
-contentType: prose
+contentType: poetry
 ---
 
 <section>

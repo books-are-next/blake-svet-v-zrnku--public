@@ -1,6 +1,6 @@
 ---
 title: Ztracený chlapec
-contentType: prose
+contentType: poetry
 ---
 
 <section>

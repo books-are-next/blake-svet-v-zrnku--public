@@ -1,6 +1,6 @@
 ---
 title: Moucha
-contentType: prose
+contentType: poetry
 ---
 
 <section>

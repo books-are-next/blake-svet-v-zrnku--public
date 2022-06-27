@@ -1,6 +1,6 @@
 ---
 title: ZPĚVY NEVINNOSTI
-contentType: prose
+contentType: poetry
 ---
 
 
