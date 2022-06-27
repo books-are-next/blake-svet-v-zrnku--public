@@ -7,10 +7,10 @@ contentType: poetry
 
 _Thelino moto_
 
-Cožpak ví orel, co je v hlubinách?  
+_Cožpak ví orel, co je v hlubinách?  
 Nebo se člověk krtka ptá?  
 Lze moudrost v stříbrný prut uložit?  
-Či lásku v číši ze zlata?
+Či lásku v číši ze zlata?_
 
 ## I
 

@@ -67,7 +67,7 @@ Bez člověka by byla příroda planá.
 
 Dost je příliš mnoho.
 
-\* \* \*
+* * *
 
 Bez protikladů není pokroku. Přitažlivost a odpudivost, rozum a energie, láska a nenávist jsou nezbytné k lidskému životu.
 
@@ -79,10 +79,18 @@ Znám také bibli pekel a svět ji pozná, ať chce nebo ne.
 
 Všechno živé je posvátné.
 
+</section>
+
+<section>
+
 PŘÁTELSTVÍ
 
 Co žalu z tvého přátelství jsem měl.  
 Z přátelství ke mně buď můj nepřítel!
+
+</section>
+
+<section>
 
 VĚČNÉ EVANGELIUM
 
