@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "blake-svet-v-zrnku-pisku-a0e4527",
-  "revision": "a0e4527",
+  "identifier": "blake-svet-v-zrnku-pisku-5a55c8f",
+  "revision": "5a55c8f",
   "readingOrder": [
     "promo.html",
     "svet_v_zrnku_pisku_005.html",
@@ -98,8 +98,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 27 2022 10:09:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656324553836
+    "date": "Mon Jun 27 2022 10:21:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1656325278184
   },
   "documents": [
     {
@@ -1786,9 +1786,9 @@
     {
       "title": "Pekelná přísloví",
       "file": "svet_v_zrnku_pisku_087.html",
-      "words": 320,
-      "chars": 1914,
-      "ideas": 44,
+      "words": 317,
+      "chars": 1909,
+      "ideas": 43,
       "role": "chapter",
       "order": 83,
       "prev": "svet_v_zrnku_pisku_086.html",
@@ -1826,14 +1826,14 @@
   ],
   "totals": {
     "all": {
-      "words": 8747,
-      "chars": 49526,
-      "ideas": 1693
+      "words": 8744,
+      "chars": 49521,
+      "ideas": 1692
     },
     "chapters": {
-      "words": 8603,
-      "chars": 48609,
-      "ideas": 1673
+      "words": 8600,
+      "chars": 48604,
+      "ideas": 1672
     }
   }
 }
