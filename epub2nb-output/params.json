@@ -853,8 +853,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "---"
+                "title": "---",
+                "children": []
               }
             ]
           },
@@ -1853,6 +1853,6 @@
       "user": "books-are-next",
       "repo": "blake-svet-v-zrnku-pisku"
     },
-    "generatedAt": 1656325604269
+    "generatedAt": 1656339959683
   }
 }
