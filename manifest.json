@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "blake-svet-v-zrnku-pisku-a4a4134",
-  "revision": "a4a4134",
+  "identifier": "blake-svet-v-zrnku-pisku-bf1a00a",
+  "revision": "bf1a00a",
   "readingOrder": [
     "promo.html",
     "svet_v_zrnku_pisku_005.html",
@@ -95,11 +95,11 @@
     "svet_v_zrnku_pisku_085.html",
     "svet_v_zrnku_pisku_086.html",
     "svet_v_zrnku_pisku_087.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 27 2022 14:27:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656340063005
+    "date": "Thu Jul 07 2022 08:16:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657181803194
   },
   "documents": [
     {
@@ -268,7 +268,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vzpomínko, ke mně pojď",
+          "name": "Vzpomínko, ke mně pojď",
           "id": null,
           "children": []
         }
@@ -328,7 +328,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Zpěv o zpěvu",
+          "name": "Zpěv o zpěvu",
           "id": null,
           "children": []
         }
@@ -428,7 +428,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Hrouda a oblázek",
+          "name": "Hrouda a oblázek",
           "id": null,
           "children": []
         }
@@ -668,7 +668,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Žal v plenkách",
+          "name": "Žal v plenkách",
           "id": null,
           "children": []
         }
@@ -828,7 +828,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Usnula láska na stráni",
+          "name": "Usnula láska na stráni",
           "id": null,
           "children": []
         }
@@ -848,7 +848,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Viděl jsem kapli ze zlata",
+          "name": "Viděl jsem kapli ze zlata",
           "id": null,
           "children": []
         }
@@ -948,7 +948,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Otče ne náš",
+          "name": "Otče ne náš",
           "id": null,
           "children": []
         }
@@ -968,7 +968,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Láska k chybám slepá je",
+          "name": "Láska k chybám slepá je",
           "id": null,
           "children": []
         }
@@ -1008,7 +1008,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Meč a srp",
+          "name": "Meč a srp",
           "id": null,
           "children": []
         }
@@ -1148,7 +1148,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Dlouhý John Brown a malá Mary Bellová",
+          "name": "Dlouhý John Brown a malá Mary Bellová",
           "id": null,
           "children": []
         }
@@ -1248,7 +1248,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Žalobníkovi, jenž je bohem tohoto světa",
+          "name": "Žalobníkovi, jenž je bohem tohoto světa",
           "id": null,
           "children": []
         }
@@ -1757,7 +1757,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pravda v maličkostech",
+          "name": "Pravda v maličkostech",
           "id": null,
           "children": []
         }
@@ -1777,7 +1777,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "SŇATEK NEBE S PEKLEM",
+          "name": "SŇATEK NEBE S PEKLEM",
           "id": null,
           "children": []
         }
@@ -1792,7 +1792,7 @@
       "role": "chapter",
       "order": 83,
       "prev": "svet_v_zrnku_pisku_086.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1805,11 +1805,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 136,
-      "chars": 877,
+      "chars": 876,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "svet_v_zrnku_pisku_087.html",
       "next": null,
@@ -1826,8 +1826,8 @@
   ],
   "totals": {
     "all": {
-      "words": 8744,
-      "chars": 49521,
+      "words": 8743,
+      "chars": 49525,
       "ideas": 1692
     },
     "chapters": {

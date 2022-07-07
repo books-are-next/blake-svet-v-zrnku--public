@@ -98,7 +98,7 @@ readingOrder:
   - svet_v_zrnku_pisku_085.html
   - svet_v_zrnku_pisku_086.html
   - svet_v_zrnku_pisku_087.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
