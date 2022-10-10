@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "blake-svet-v-zrnku-pisku-aaf3547",
-  "revision": "aaf3547",
+  "identifier": "blake-svet-v-zrnku-pisku-576b930",
+  "revision": "576b930",
   "readingOrder": [
     "promo.html",
     "svet_v_zrnku_pisku_005.html",
@@ -98,8 +98,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:57:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151052665
+    "date": "Mon Oct 10 2022 15:49:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416985288
   },
   "documents": [
     {
@@ -1807,7 +1807,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 136,
-      "chars": 877,
+      "chars": 878,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -1827,7 +1827,7 @@
   "totals": {
     "all": {
       "words": 8744,
-      "chars": 49521,
+      "chars": 49522,
       "ideas": 1692
     },
     "chapters": {
